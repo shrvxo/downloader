@@ -1,7 +1,10 @@
-# Downloaded list :
+# Downloads
 
-- [1BPcoYPL](./1BPcoYPL)
-- [82ea458a-d219-4a02-9308-212a8932ee1b](./82ea458a-d219-4a02-9308-212a8932ee1b)
+---
+
+## NO FILE DOWNLOADED YET!
+
+Use the download workflows to add files here.
 
 ---
 
