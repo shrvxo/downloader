@@ -1,0 +1,2711 @@
+<script>console.log("main = main3 ip = 20.161.70.181");</script>
+    <!doctype html>
+    <html lang="en">
+    <head>
+        <!-- Required meta tags -->
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    
+        <!-- SEO Meta Tags -->
+        <meta name="description" content="Download File The Curse 2000 iNTERNAL BDRip x264 ORBS">
+        <meta name="keywords" content="the, curse, 2000, internal, bdrip, x264, orbs">
+    
+        <!-- Title -->
+        <title>Download The Curse 2000 iNTERNAL BDRip x264 ORBS</title>
+    
+        <!-- Favicon -->
+        <link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon"/>
+    
+        <!-- FontAwesome -->
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+    
+        <!-- Flag Icons -->
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/css/flag-icons.min.css">
+
+        <!-- Google Fonts - Roboto -->
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+        <!-- jQuery -->
+        <script language="JavaScript" type="text/javascript" CHARSET="UTF-8" src="/ds2/js/jquery-1.9.1.min.js"></script>
+    
+        <!-- Iframe Breaker -->
+        
+    
+        <!-- Additional Scripts -->
+        <script type="text/javascript" src="/ds2/js/jquery.paging.js"></script>
+        <script type="text/javascript" src="/ds2/js/jquery.cookie.js"></script>
+        <script type="text/javascript" src="/ds2/js/paging.js?r=4"></script>
+    
+        <!-- UI Scripts -->
+        <script type="text/javascript">
+            $(document).ready(function() {
+                $("#showallarch").click(function() {
+                    $(this).css('display', 'none');
+                    $("#fileinfoarch").css('height', '100%');
+                    $("#grad").css('display', 'none');
+                });
+            });
+        </script>
+    
+        <script type="text/javascript">
+            (function($) {
+                $(function() {
+                    $('ul.tabs').on('click', 'li:not(.current)', function() {
+                        var section = $(this).parents('div.section:first');
+                        var idx = $(this).index();
+                        $(this).addClass('current').siblings().removeClass('current');
+                        $(section).find('> div.box').eq(idx).fadeIn(150).siblings('div.box').hide();
+                        $.cookie($(section).attr('id') + 'tab', idx);
+                    });
+    
+                    $('.section').each(function(i, e) {
+                        if(!e.id) return;
+                        var idx;
+                        if(idx = $.cookie(e.id + 'tab')) {
+                            $(e).find('> ul > li').eq(idx).click();
+                        }
+                    });
+                })
+            })(jQuery)
+        </script>
+    
+        <!-- Original Styles -->
+        <link rel="stylesheet" type="text/css" href="/ds2/css/style.min.css?v=4" />
+        <link rel="stylesheet" type="text/css" href="/ds2/css/custom.min.css?v=22" />
+    
+        <!-- Modern Minimal Design -->
+        <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+    
+        :root {
+            --primary-blue: #143FA6;
+            --primary-blue-dark: #0f2f7a;
+            --primary-blue-light: #1b52d4;
+            --text-dark: #2c3e50;
+            --text-muted: #6c757d;
+            --border-color: #e1e8ed;
+            --bg-light: #f8f9fa;
+            --white: #ffffff;
+            --shadow-sm: 0 2px 4px rgba(0,0,0,0.05);
+            --shadow-md: 0 4px 12px rgba(0,0,0,0.08);
+            --shadow-lg: 0 8px 24px rgba(0,0,0,0.12);
+        }
+    
+        html {
+            height: 100%;
+        }
+    
+        body {
+            font-family: 'Roboto', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;
+            color: var(--text-dark);
+            background: var(--bg-light);
+            line-height: 1.6;
+            display: flex !important;
+            flex-direction: column !important;
+            min-height: 100vh;
+            padding-bottom: 0 !important;
+        }
+    
+        /* ===== LIQUID GLASS HEADER ===== */
+        .modern-header {
+            background: rgba(255, 255, 255, 0.75);
+            backdrop-filter: blur(20px);
+            -webkit-backdrop-filter: blur(20px);
+            border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+            box-shadow: 0 4px 30px rgba(0, 0, 0, 0.08), inset 0 1px 0 rgba(255, 255, 255, 0.6);
+            position: sticky;
+            top: 0;
+            z-index: 1000;
+            transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+            flex-shrink: 0;
+        }
+
+        .modern-header:hover {
+            background: rgba(255, 255, 255, 0.85);
+        }
+
+        .header-container {
+            max-width: 1600px;
+            margin: 0 auto;
+            padding: 0 1.5rem;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            height: 70px;
+        }
+
+        .header-logo {
+            display: flex;
+            align-items: center;
+            gap: 0.75rem;
+            flex-shrink: 0;
+            margin-right: 3rem;
+        }
+
+        .header-logo a {
+            display: block;
+            transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+        }
+
+        .header-logo a:hover {
+            transform: scale(1.05);
+            filter: brightness(1.1);
+        }
+
+        .header-logo img {
+            height: 27px;
+            width: auto;
+            transition: all 0.3s ease;
+        }
+
+        .header-nav {
+            display: flex;
+            align-items: center;
+            gap: 0.4rem;
+            flex-wrap: nowrap;
+        }
+
+        .nav-link {
+            padding: 0.6rem 0.9rem;
+            color: var(--text-dark);
+            text-decoration: none;
+            border-radius: 10px;
+            font-weight: 500;
+            font-size: 16px;
+            transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+            position: relative;
+            white-space: nowrap;
+            display: inline-flex;
+            align-items: center;
+            gap: 0.4rem;
+        }
+
+        .nav-link:hover {
+            color: var(--primary-blue);
+            background: rgba(20, 63, 166, 0.08);
+        }
+
+        /* Active page indicator */
+        .nav-link.active {
+            color: var(--primary-blue);
+            background: rgba(20, 63, 166, 0.1);
+            font-weight: 600;
+        }
+        .nav-link.active:hover {
+            background: rgba(20, 63, 166, 0.14);
+        }
+        /* When the gradient link is also active, drop the gradient and use solid */
+        .nav-link-gradient.active {
+            background: rgba(20, 63, 166, 0.1);
+            -webkit-background-clip: unset;
+            -webkit-text-fill-color: unset;
+            background-clip: unset;
+            color: var(--primary-blue);
+        }
+
+        /* Primary Button - Blue Gradient */
+        .nav-link-gradient {
+            background: linear-gradient(135deg, #143FA6 0%, #2563eb 60%, #06b6d4 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+            font-weight: 600;
+            /* Override .nav-link's `transition: all 0.3s` — animating the
+               gradient + background-clip + text-fill-color trio causes the
+               label to flash transparent/white for ~300ms when switching
+               to/from :hover or on page navigation (page enters with hover
+               memory, then transitions back). Only animate the flat hover
+               background/color; the gradient properties must snap. */
+            transition: background-color 0.2s ease, color 0.2s ease;
+        }
+
+        .nav-link-gradient:hover {
+            background: rgba(20, 63, 166, 0.08);
+            -webkit-background-clip: unset;
+            -webkit-text-fill-color: unset;
+            background-clip: unset;
+            color: #143FA6;
+        }
+
+        .nav-link.outlined {
+            border: 1.5px solid #d1d5db;
+            border-radius: 10px;
+            padding: 0.6rem 1.25rem;
+        }
+
+        .nav-link.outlined:hover {
+            border-color: #9ca3af;
+            background: rgba(0,0,0,0.02);
+        }
+
+        .nav-link.primary {
+            color: var(--white);
+            padding: 0.6rem 1.25rem;
+            border-radius: 10px;
+            background: linear-gradient(135deg, rgba(20, 63, 166, 0.95) 0%, rgba(27, 94, 217, 0.95) 100%);
+            border: 1px solid rgba(20, 63, 166, 0.3);
+            box-shadow: 0 2px 4px rgba(20, 63, 166, 0.15), inset 0 1px 0 rgba(255, 255, 255, 0.1);
+            transition: all 0.2s ease;
+        }
+
+        .nav-link.primary:hover {
+            color: var(--white);
+            background: linear-gradient(135deg, rgba(26, 79, 196, 1) 0%, rgba(37, 99, 235, 1) 100%);
+            box-shadow: 0 4px 8px rgba(20, 63, 166, 0.25), inset 0 1px 0 rgba(255, 255, 255, 0.15);
+        }
+
+        /* Liquid Glass Dropdown Menu */
+        .nav-dropdown {
+            position: relative;
+        }
+
+        .nav-dropdown-trigger {
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+
+        /* Dropdown Container */
+        .nav-dropdown {
+            position: relative;
+        }
+
+        /* Dropdown innerhalb Header - versteckt (nur als Fallback für Mobile) */
+        .nav-dropdown-menu {
+            display: none;
+        }
+
+        /* Portal Dropdown - direkt im Body für Glass Effect */
+        .dropdown-portal {
+            position: fixed;
+            top: 70px;
+            background: rgba(255, 255, 255, 0.75);
+            -webkit-backdrop-filter: blur(20px);
+            backdrop-filter: blur(20px);
+            border-radius: 12px;
+            border: 1px solid rgba(255, 255, 255, 0.3);
+            box-shadow: 0 10px 40px rgba(0, 0, 0, 0.12), inset 0 1px 0 rgba(255, 255, 255, 0.6);
+            min-width: 220px;
+            width: max-content;
+            max-width: calc(100vw - 2rem);
+            opacity: 0;
+            visibility: hidden;
+            pointer-events: none;
+            transition: opacity 0.2s ease, visibility 0.2s ease;
+            z-index: 9999;
+        }
+
+        .dropdown-portal.active {
+            opacity: 1;
+            visibility: visible;
+            pointer-events: auto;
+        }
+
+        /* Portal Dropdown Links */
+        .dropdown-portal a {
+            display: flex;
+            align-items: center;
+            gap: 0.4rem;
+            padding: 0.55rem 1rem;
+            color: #0a0a0a;
+            text-decoration: none;
+            font-size: 13px;
+            font-weight: 400;
+            transition: all 0.2s ease;
+            border-bottom: 1px solid rgba(0, 0, 0, 0.04);
+            white-space: nowrap;
+        }
+
+        .dropdown-portal a:first-child {
+            border-radius: 12px 12px 0 0;
+        }
+
+        .dropdown-portal a:last-child {
+            border-bottom: none;
+            border-radius: 0 0 12px 12px;
+        }
+
+        .dropdown-portal a:only-child {
+            border-radius: 12px;
+        }
+
+        .dropdown-portal a:hover {
+            background: rgba(20, 63, 166, 0.08);
+            color: var(--primary-blue);
+        }
+
+        .dropdown-portal a.has-new {
+            color: var(--primary-blue);
+            font-weight: 600;
+        }
+
+        .dropdown-portal a i {
+            margin-right: 0.5rem;
+            font-size: 14px;
+            width: 18px;
+            color: #555555;
+        }
+
+        /* Narrow dropdown for Dashboard/Logout */
+        .dropdown-portal.narrow {
+            min-width: auto;
+        }
+
+        /* Admin Mega Dropdown */
+        .dropdown-portal.admin-mega {
+            width: 680px;
+            padding: 1.25rem;
+        }
+        .amg-grid {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 0.25rem 1.5rem;
+        }
+        .amg-group { margin-bottom: 0.75rem; }
+        .amg-group-label {
+            font-size: 0.68rem;
+            font-weight: 800;
+            letter-spacing: 0.06em;
+            text-transform: uppercase;
+            color: #94a3b8;
+            padding: 0.35rem 0.65rem 0.45rem;
+        }
+        .dropdown-portal.admin-mega a {
+            border-bottom: none;
+            border-radius: 8px;
+            padding: 0.45rem 0.65rem;
+            font-size: 13px;
+        }
+        .dropdown-portal.admin-mega a i {
+            font-size: 13px;
+            width: 16px;
+            color: #64748b;
+        }
+        .dropdown-portal.admin-mega a:hover i {
+            color: var(--primary-blue);
+        }
+
+        /* Language Portal - Opens Upward */
+        .dropdown-portal-up {
+            top: auto;
+            bottom: auto;
+            overflow-y: auto;
+        }
+
+        .dropdown-portal-up a .fi {
+            width: 24px;
+            height: 24px;
+            font-size: 24px;
+            line-height: 24px;
+            margin-right: 10px;
+            border-radius: 50%;
+            overflow: hidden;
+            display: inline-block;
+            background-size: cover;
+            background-position: center;
+        }
+
+        /* Primary button as dropdown trigger */
+        .nav-link.primary.nav-dropdown-trigger {
+            cursor: pointer;
+        }
+    
+        .nav-link.primary .fa-chevron-down {
+            opacity: 0.9;
+        }
+    
+        /* Hide mobile-only links on desktop */
+        .mobile-only-link {
+            display: none !important;
+        }
+
+        .mobile-menu-toggle {
+            display: none;
+            background: none;
+            border: none;
+            font-size: 24px;
+            color: var(--text-dark);
+            cursor: pointer;
+            padding: 0.5rem;
+            -webkit-tap-highlight-color: transparent;
+            outline: none;
+            user-select: none;
+        }
+
+        .mobile-menu-toggle:focus,
+        .mobile-menu-toggle:active {
+            outline: none;
+            background: none;
+        }
+    
+        /* ===== MAIN CONTENT ===== */
+        #container {
+            max-width: 1400px;
+            width: 100%;
+            margin: 0 auto;
+            padding: 2rem !important;
+            padding-bottom: 2rem !important;
+            flex: 1 0 auto;
+        }
+    
+        /* ===== LIQUID GLASS FOOTER ===== */
+        .modern-footer {
+            background: rgba(255, 255, 255, 0.85);
+            backdrop-filter: blur(20px);
+            -webkit-backdrop-filter: blur(20px);
+            border-top: 1px solid rgba(255, 255, 255, 0.5);
+            box-shadow:
+                0 -4px 30px rgba(0, 0, 0, 0.05),
+                inset 0 1px 0 rgba(255, 255, 255, 0.6);
+            margin-top: auto;
+            padding: 4rem 0 0;
+            position: static !important;
+            bottom: auto !important;
+            flex-shrink: 0;
+        }
+    
+        .footer-container {
+            max-width: 1600px;
+            margin: 0 auto;
+            padding: 0 3rem;
+        }
+    
+        .footer-grid {
+            display: grid;
+            grid-template-columns: 2fr 1fr 1fr 1fr 1fr;
+            gap: 3rem;
+            margin-bottom: 3rem;
+        }
+    
+        .footer-section h4 {
+            color: var(--text-dark);
+            font-size: 17px;
+            font-weight: 700;
+            margin-bottom: 1.5rem;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+    
+        .footer-logo img {
+            height: 18px;
+            margin-bottom: 1.25rem;
+            filter: grayscale(100%);
+            -webkit-filter: grayscale(100%);
+            opacity: 0.6;
+            transition: all 0.3s ease;
+        }
+
+        .footer-logo img:hover {
+            filter: grayscale(0%);
+            -webkit-filter: grayscale(0%);
+            opacity: 1;
+        }
+    
+        .footer-section p {
+            color: var(--text-muted);
+            font-size: 12px;
+            line-height: 1.7;
+            margin-bottom: 1.5rem;
+            max-width: 350px;
+        }
+    
+        .footer-menu {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+        }
+    
+        .footer-menu li {
+            margin-bottom: 0.9rem;
+        }
+    
+        .footer-menu a {
+            color: #6c757d;
+            text-decoration: none;
+            font-size: 15px;
+            transition: all 0.3s;
+            display: inline-block;
+        }
+
+        .footer-menu a:hover {
+            color: #1a1a2e;
+            text-decoration: underline;
+        }
+    
+        .footer-bottom {
+            padding: 2rem 0 1rem;
+            border-top: 1px solid rgba(20, 63, 166, 0.1);
+            text-align: center;
+            color: var(--text-muted);
+            font-size: 14px;
+            background: rgba(255, 255, 255, 0.5);
+            backdrop-filter: blur(10px);
+            -webkit-backdrop-filter: blur(10px);
+        }
+    
+        .footer-bottom a {
+            color: #143FA6;
+            text-decoration: underline;
+        }
+    
+        .footer-bottom a:hover {
+            color: #1b52d4;
+            text-decoration: underline;
+        }
+    
+        /* ===== HEADER LANGUAGE TRIGGER ===== */
+        .header-lang-trigger {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.4rem;
+            cursor: pointer;
+            padding: 0.6rem 0.9rem;
+            border-radius: 10px;
+            transition: background 0.2s ease;
+            color: var(--text-dark);
+            font-size: 16px;
+            font-weight: 500;
+            position: relative;
+            line-height: 1;
+        }
+
+        .header-lang-trigger:hover {
+            background: rgba(0,0,0,0.05);
+        }
+
+        .header-lang-trigger svg {
+            width: 18px;
+            height: 18px;
+        }
+
+        /* Tooltip */
+        .header-lang-trigger::after {
+            content: attr(title);
+            position: absolute;
+            top: calc(100% + 8px);
+            left: 50%;
+            transform: translateX(-50%) translateY(4px);
+            background: #1a1a2e;
+            color: white;
+            font-size: 0.75rem;
+            font-weight: 500;
+            padding: 6px 12px;
+            border-radius: 6px;
+            white-space: nowrap;
+            opacity: 0;
+            visibility: hidden;
+            transition: all 0.2s ease;
+            pointer-events: none;
+            z-index: 100;
+        }
+
+        .header-lang-trigger::before {
+            content: '';
+            position: absolute;
+            top: calc(100% + 3px);
+            left: 50%;
+            transform: translateX(-50%);
+            border: 5px solid transparent;
+            border-bottom-color: #1a1a2e;
+            opacity: 0;
+            visibility: hidden;
+            transition: all 0.2s ease;
+            pointer-events: none;
+            z-index: 100;
+        }
+
+        .header-lang-trigger:hover::after,
+        .header-lang-trigger:hover::before {
+            opacity: 1;
+            visibility: visible;
+            transform: translateX(-50%) translateY(0);
+        }
+
+        .header-lang-trigger:hover::before {
+            transform: translateX(-50%);
+        }
+
+        /* ===== LANGUAGE MODAL ===== */
+        .lang-modal-overlay {
+            position: fixed;
+            inset: 0;
+            background: rgba(0,0,0,0.5);
+            z-index: 10000;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            opacity: 0;
+            visibility: hidden;
+            transition: all 0.25s ease;
+        }
+
+        .lang-modal-overlay.active {
+            opacity: 1;
+            visibility: visible;
+        }
+
+        .lang-modal {
+            background: white;
+            border-radius: 16px;
+            padding: 2.5rem;
+            width: 90%;
+            max-width: 680px;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.2);
+            transform: scale(0.95) translateY(10px);
+            transition: transform 0.25s ease;
+        }
+
+        .lang-modal-overlay.active .lang-modal {
+            transform: scale(1) translateY(0);
+        }
+
+        .lang-modal-header {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            margin-bottom: 2rem;
+        }
+
+        .lang-modal-header h3 {
+            font-size: 1.4rem;
+            font-weight: 700;
+            color: #1a1a2e;
+            margin: 0;
+        }
+
+        .lang-modal-close {
+            background: none;
+            border: none;
+            font-size: 1.2rem;
+            color: #6c757d;
+            cursor: pointer;
+            padding: 0.3rem;
+            border-radius: 6px;
+            transition: all 0.2s ease;
+        }
+
+        .lang-modal-close:hover {
+            background: #f1f5f9;
+            color: #1a1a2e;
+        }
+
+        .lang-modal-grid {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 4px;
+        }
+
+        .lang-option {
+            padding: 0.7rem 1rem;
+            border-radius: 8px;
+            color: #374151;
+            text-decoration: none;
+            font-size: 0.95rem;
+            font-weight: 400;
+            transition: all 0.15s ease;
+        }
+
+        .lang-option:hover {
+            background: #f1f5f9;
+            color: #1a1a2e;
+            text-decoration: none;
+        }
+
+        .lang-option.active {
+            background: #f1f5f9;
+            font-weight: 600;
+            color: #1a1a2e;
+        }
+
+        .lang-option.active::after {
+            content: ' \2713';
+            color: #143FA6;
+        }
+
+        @media (max-width: 640px) {
+            .lang-modal { padding: 1.5rem; }
+            .lang-modal-grid { grid-template-columns: repeat(2, 1fr); }
+        }
+    
+        /* ===== FOOTER APP BADGES ===== */
+        .footer-badge-wrap {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            flex-wrap: wrap;
+            margin-top: 2.8rem;
+        }
+
+        .footer-badge {
+            display: inline-block;
+            position: relative;
+            filter: grayscale(100%) brightness(0.7);
+            opacity: 0.5;
+            transition: all 0.3s ease;
+            cursor: default;
+        }
+
+        .footer-badge:hover {
+            filter: grayscale(0%) brightness(1);
+            opacity: 1;
+        }
+
+        .footer-badge img {
+            height: 40px;
+            display: block;
+        }
+
+        .footer-badge::before {
+            content: attr(data-tooltip);
+            position: absolute;
+            bottom: calc(100% + 14px);
+            left: 50%;
+            transform: translateX(-50%) translateY(4px);
+            background: #143FA6;
+            color: white;
+            font-size: 0.78rem;
+            font-weight: 600;
+            padding: 5px 14px;
+            border-radius: 8px;
+            white-space: nowrap;
+            opacity: 0;
+            visibility: hidden;
+            transition: all 0.2s ease;
+            pointer-events: none;
+            z-index: 10;
+        }
+
+        .footer-badge::after {
+            content: '';
+            position: absolute;
+            bottom: calc(100% + 3px);
+            left: 50%;
+            transform: translateX(-50%);
+            border: 6px solid transparent;
+            border-top-color: #143FA6;
+            opacity: 0;
+            visibility: hidden;
+            transition: all 0.2s ease;
+            pointer-events: none;
+            z-index: 10;
+        }
+
+        .footer-badge:hover::before,
+        .footer-badge:hover::after {
+            opacity: 1;
+            visibility: visible;
+        }
+
+        .footer-badge:hover::before {
+            transform: translateX(-50%) translateY(0);
+        }
+
+        /* ===== FOOTER SECURITY BADGES ===== */
+        .footer-bottom {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 1.5rem;
+        }
+
+        .footer-security-badges {
+            display: flex;
+            align-items: center;
+            gap: 0.75rem;
+        }
+
+        .footer-security-badges img {
+            height: 28px;
+            filter: grayscale(100%) brightness(0.7);
+            opacity: 0.4;
+            transition: all 0.3s ease;
+        }
+
+        .footer-security-badges img:hover {
+            filter: grayscale(0%) brightness(1);
+            opacity: 1;
+        }
+
+        /* ===== CAPTCHA RESPONSIVE FIX ===== */
+        div[class*="captcha"],
+        div[class*="h-captcha"] {
+            max-width: 100% !important;
+            overflow: hidden;
+        }
+
+        div[class*="captcha"] > div,
+        div[class*="captcha"] iframe,
+        div[class*="h-captcha"] > div,
+        div[class*="h-captcha"] iframe {
+            max-width: 100% !important;
+        }
+    
+        /* ===== MOBILE RESPONSIVE ===== */
+        /* Tablet Layout */
+        @media (max-width: 1200px) {
+            .footer-grid {
+                grid-template-columns: 2fr 1fr 1fr;
+                gap: 2.5rem;
+            }
+        }
+    
+        /* ==========================================================
+           MOBILE MENU — Dropdown card under the main header
+           ========================================================== */
+        .mobile-menu-portal {
+            position: fixed;
+            top: 65px;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: rgba(255, 255, 255, 0.4);
+            -webkit-backdrop-filter: blur(8px);
+            backdrop-filter: blur(8px);
+            z-index: 998;
+            opacity: 0;
+            visibility: hidden;
+            transition: opacity 0.3s ease, visibility 0.3s ease;
+            overflow-y: auto;
+            -webkit-overflow-scrolling: touch;
+        }
+        .mobile-menu-portal.active {
+            opacity: 1;
+            visibility: visible;
+        }
+        html.mobile-menu-open,
+        body.mobile-menu-open {
+            overflow: hidden;
+            touch-action: none;
+        }
+        /* Menu card itself stays scrollable inside the overlay */
+        .mobile-menu-portal {
+            touch-action: pan-y;
+            overscroll-behavior: contain;
+        }
+
+        /* Card sitting just under the main header */
+        .mm-card {
+            margin: 0.75rem;
+            background: #fff;
+            border-radius: 18px;
+            box-shadow: 0 12px 40px rgba(15, 23, 42, 0.18), 0 2px 8px rgba(15, 23, 42, 0.06);
+            overflow: hidden;
+            transform: translateY(-12px);
+            transition: transform 0.3s cubic-bezier(0.34, 1.56, 0.64, 1);
+            max-width: calc(100% - 1.5rem);
+        }
+        .mobile-menu-portal.active .mm-card {
+            transform: translateY(0);
+        }
+
+        /* Menu item */
+        .mobile-nav-link,
+        .mobile-collapse-trigger {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            gap: 0.75rem;
+            padding: 1rem 1.25rem;
+            color: #1a1a2e;
+            text-decoration: none;
+            font-size: 0.95rem;
+            font-weight: 600;
+            border: none;
+            border-bottom: 1px solid rgba(15, 23, 42, 0.06);
+            background: none;
+            cursor: pointer;
+            width: 100%;
+            text-align: left;
+            font-family: inherit;
+            -webkit-tap-highlight-color: transparent;
+            transition: background 0.15s, color 0.15s;
+        }
+        .mobile-nav-link:last-child,
+        .mobile-collapse-trigger:last-child,
+        .mm-card > *:last-child {
+            border-bottom: none;
+        }
+        .mobile-nav-link:hover,
+        .mobile-nav-link:active,
+        .mobile-collapse-trigger:hover,
+        .mobile-collapse-trigger:active {
+            background: rgba(15, 23, 42, 0.03);
+            color: #143FA6;
+            text-decoration: none;
+        }
+        .mobile-collapse-trigger:focus,
+        .mobile-collapse-trigger:focus-visible {
+            outline: none;
+        }
+
+        /* Gradient variant — Dashboard link with brand gradient text */
+        .mobile-nav-link.gradient {
+            font-weight: 800;
+            background: linear-gradient(135deg, #143FA6 0%, #2563eb 60%, #06b6d4 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+        .mobile-nav-link.gradient:hover {
+            background: linear-gradient(135deg, #143FA6 0%, #2563eb 60%, #06b6d4 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+
+        /* Chevron */
+        .mobile-collapse-trigger .mm-chevron {
+            width: 16px;
+            height: 16px;
+            flex-shrink: 0;
+            color: #94a3b8;
+            transition: transform 0.25s ease;
+        }
+        .mobile-collapse-trigger.active .mm-chevron {
+            transform: rotate(180deg);
+        }
+
+        /* Collapsible submenu */
+        .mobile-collapse-content {
+            max-height: 0;
+            overflow: hidden;
+            background: #f8fafc;
+            transition: max-height 0.3s ease;
+        }
+        .mobile-collapse-content.active {
+            max-height: 800px;
+        }
+        .mobile-collapse-content a {
+            display: flex;
+            align-items: center;
+            gap: 0.65rem;
+            padding: 0.7rem 1.25rem;
+            color: #475569;
+            text-decoration: none;
+            font-size: 0.88rem;
+            font-weight: 500;
+            border-bottom: 1px solid rgba(15, 23, 42, 0.04);
+        }
+        .mobile-collapse-content a:last-child {
+            border-bottom: none;
+        }
+        .mobile-collapse-content a:hover {
+            color: #143FA6;
+            background: rgba(20, 63, 166, 0.04);
+            text-decoration: none;
+        }
+        .mobile-collapse-content a i {
+            width: 18px;
+            text-align: center;
+            font-size: 13px;
+            color: #94a3b8;
+        }
+
+        /* Language selector trigger — globe icon + language code, same style as desktop */
+        .mobile-lang-selector .mobile-collapse-trigger .trigger-left {
+            display: flex;
+            align-items: center;
+            gap: 0.55rem;
+        }
+        .mobile-lang-selector .mm-lang-globe {
+            width: 18px;
+            height: 18px;
+            flex-shrink: 0;
+            color: #475569;
+        }
+        #mobile-lang-current-code {
+            font-weight: 700;
+            letter-spacing: 0.02em;
+        }
+
+        /* Language dropdown content — desktop lang-modal-grid style */
+        .mobile-lang-selector .mobile-collapse-content {
+            background: #f8fafc;
+        }
+        .mobile-lang-grid {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 4px;
+            padding: 0.75rem 1rem;
+        }
+        .mobile-lang-grid a {
+            padding: 0.65rem 0.85rem;
+            border-radius: 8px;
+            color: #374151;
+            text-decoration: none;
+            font-size: 0.88rem;
+            font-weight: 500;
+            transition: all 0.15s ease;
+            border-bottom: none;
+            display: block;
+        }
+        .mobile-lang-grid a:hover {
+            background: rgba(20, 63, 166, 0.06);
+            color: #143FA6;
+            text-decoration: none;
+        }
+        .mobile-lang-grid a.active {
+            background: rgba(20, 63, 166, 0.08);
+            font-weight: 700;
+            color: #143FA6;
+        }
+        .mobile-lang-grid a.active::after {
+            content: ' \2713';
+            color: #143FA6;
+        }
+
+        /* Legacy .mobile-menu-footer removed — CTAs are now in topbar */
+        .mobile-menu-footer { display: none !important; }
+
+        @media (max-width: 968px) {
+            /* Hide desktop nav inside header on mobile */
+            .header-nav {
+                display: none !important;
+            }
+
+            .mobile-menu-toggle {
+                display: block;
+            }
+
+            .header-logo img {
+                height: 20px;
+            }
+
+            /* Hide all desktop dropdown portals on mobile */
+            .dropdown-portal {
+                display: none !important;
+            }
+
+            /* Hide footer language selector on mobile */
+            .footer-section .language-selector {
+                display: none !important;
+            }
+        }
+
+        @media (min-width: 969px) {
+            /* Hide mobile menu portal and footer on desktop */
+            .mobile-menu-portal,
+            .mobile-menu-footer {
+                display: none !important;
+            }
+        }
+
+        @media (max-width: 968px) {
+            #container {
+                padding: 0.5rem !important;
+            }
+
+            .footer-container {
+                padding: 0 1.5rem;
+            }
+
+            .footer-grid {
+                grid-template-columns: 1fr;
+                gap: 0;
+            }
+
+            .modern-footer {
+                padding: 2.5rem 0 0;
+                margin-top: 2rem;
+            }
+
+            /* Mobile Footer Collapsible Sections - mega.nz style */
+            .footer-section.footer-collapsible {
+                border-bottom: 1px solid rgba(0, 0, 0, 0.08);
+            }
+
+            .footer-section.footer-collapsible h4 {
+                display: none;
+            }
+
+            .footer-section.footer-collapsible .footer-menu {
+                display: none;
+            }
+
+            .footer-section.footer-collapsible.open .footer-menu {
+                display: block;
+                padding: 0 0 1rem 0;
+            }
+
+            .footer-collapse-header {
+                display: flex;
+                align-items: center;
+                justify-content: space-between;
+                padding: 1.25rem 0;
+                cursor: pointer;
+                user-select: none;
+                -webkit-tap-highlight-color: transparent;
+            }
+
+            .footer-collapse-header:hover {
+                color: var(--primary-blue);
+            }
+
+            .footer-collapse-title {
+                color: var(--text-dark);
+                font-size: 16px;
+                font-weight: 600;
+                margin: 0;
+            }
+
+            .footer-collapse-icon {
+                font-size: 20px;
+                font-weight: 300;
+                color: #888;
+                width: 24px;
+                height: 24px;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                transition: transform 0.2s ease;
+            }
+
+            .footer-section.footer-collapsible.open .footer-collapse-icon .plus-icon {
+                display: none;
+            }
+
+            .footer-section.footer-collapsible .footer-collapse-icon .minus-icon {
+                display: none;
+            }
+
+            .footer-section.footer-collapsible.open .footer-collapse-icon .minus-icon {
+                display: block;
+            }
+
+            .footer-section.footer-collapsible .footer-menu li {
+                margin-bottom: 0;
+            }
+
+            .footer-section.footer-collapsible .footer-menu a {
+                display: block;
+                padding: 0.75rem 0;
+                border-bottom: 1px solid rgba(0, 0, 0, 0.04);
+            }
+
+            .footer-section.footer-collapsible .footer-menu li:last-child a {
+                border-bottom: none;
+            }
+
+            /* Hide collapse header on desktop */
+            .footer-collapse-header {
+                display: none;
+            }
+
+            /* Brand section moves to bottom on mobile */
+            .footer-grid {
+                display: flex;
+                flex-direction: column;
+            }
+
+            .footer-section:first-child {
+                order: 10;
+                padding-top: 2.5rem;
+                padding-bottom: 0;
+                margin-top: 1.5rem;
+                margin-bottom: 0;
+                border: none;
+                text-align: center;
+            }
+
+            .footer-section:first-child .footer-logo {
+                display: flex;
+                justify-content: center;
+            }
+
+            .footer-section:first-child .footer-badge-wrap {
+                justify-content: center;
+            }
+
+            .footer-section:first-child p {
+                max-width: 100%;
+                text-align: center;
+                margin-left: auto;
+                margin-right: auto;
+            }
+
+            .footer-section:first-child h4,
+            .footer-section:first-child .footer-menu {
+                display: block !important;
+            }
+
+            /* Remove border from last collapsible (Legal) since Brand follows */
+            .footer-section.footer-collapsible:last-of-type {
+                border-bottom: none;
+            }
+        }
+
+        @media (max-width: 968px) {
+            .footer-collapse-header {
+                display: flex;
+            }
+        }
+
+        @media (min-width: 969px) {
+            .footer-collapse-header {
+                display: none !important;
+            }
+
+            .footer-section.footer-collapsible h4 {
+                display: block !important;
+            }
+
+            .footer-section.footer-collapsible .footer-menu {
+                display: block !important;
+            }
+        }
+    
+        /* jQuery UI Dialog Overrides for Export Modal */
+        .ui-dialog {
+            max-width: 1200px !important;
+            width: 95% !important;
+            max-height: 85vh !important;
+        }
+    
+        .ui-dialog .ui-dialog-titlebar {
+            background: #143FA6 !important;
+            color: white !important;
+            padding: 20px 25px !important;
+            border: none !important;
+            border-radius: 12px 12px 0 0 !important;
+        }
+    
+        .ui-dialog .ui-dialog-title {
+            color: white !important;
+            font-size: 20px !important;
+            font-weight: 600 !important;
+        }
+    
+        .ui-dialog .ui-dialog-titlebar-close {
+            background: rgba(255, 255, 255, 0.25) !important;
+            border: 3px solid white !important;
+            width: 45px !important;
+            height: 45px !important;
+            border-radius: 8px !important;
+            right: 20px !important;
+            top: 18px !important;
+            margin: 0 !important;
+            opacity: 1 !important;
+            position: absolute !important;
+            display: flex !important;
+            align-items: center !important;
+            justify-content: center !important;
+        }
+    
+        .ui-dialog .ui-dialog-titlebar-close:hover {
+            background: rgba(255, 255, 255, 0.4) !important;
+            transform: scale(1.05) !important;
+        }
+    
+        .ui-dialog .ui-dialog-titlebar-close span {
+            display: none !important;
+        }
+    
+        .ui-dialog .ui-dialog-titlebar-close:after {
+            content: "✕" !important;
+            display: block !important;
+            font-size: 24px !important;
+            line-height: 1 !important;
+            color: white !important;
+            font-weight: bold !important;
+            text-align: center !important;
+            position: absolute !important;
+            top: 50% !important;
+            left: 50% !important;
+            transform: translate(-50%, -50%) !important;
+        }
+    
+        .ui-dialog .ui-dialog-content {
+            padding: 0 !important;
+            overflow-y: auto !important;
+            max-height: calc(85vh - 80px) !important;
+        }
+    
+        .ui-widget-overlay {
+            background: rgba(0, 0, 0, 0.7) !important;
+            opacity: 1 !important;
+        }
+
+        /* IPv6 address display - truncate to similar length as IPv4 */
+        .ip-addr { display: inline-block; max-width: 110px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; vertical-align: middle; }
+        </style>
+    </head>
+    <body>
+        <!-- Modern Header -->
+        <header class="modern-header">
+            <div class="header-container">
+                <!-- Logo -->
+                <div class="header-logo">
+                    <a href="/">
+                        <img src="/ds2/img/ddownload.png" alt="ddownload.com">
+                    </a>
+                </div>
+    
+                <!-- Mobile Menu Toggle -->
+                <button class="mobile-menu-toggle" onclick="toggleMobileMenu();">
+                    <i class="fas fa-bars"></i>
+                </button>
+    
+                <!-- Navigation -->
+                <nav class="header-nav">
+                    
+                    <a class="nav-link" href="/upload" onclick="if(typeof LoginModal!=='undefined'){event.preventDefault(); LoginModal.show('/upload');}">
+                        Upload
+                    </a>
+                    
+                    
+                    <a class="nav-link nav-link-gradient" href="/pricing">
+                        Ultimate
+                    </a>
+                    
+    
+                    
+                        <!-- Not Logged In -->
+                        <!-- Language Selector -->
+                        <div class="header-lang-trigger" id="headerLangBtn" data-lang="english" title="Change language">
+                            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><path d="M2 12h20"/><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/></svg>
+                            <span id="header-lang-code"></span>
+                        </div>
+
+                        <a class="nav-link outlined" href="/login" onclick="if(typeof LoginModal!=='undefined'){return LoginModal.show()}">
+                            Login
+                        </a>
+                        <a class="nav-link primary" href="/register" onclick="if(typeof RegModal!=='undefined'){return RegModal.show()}">
+                            Sign Up
+                        </a>
+                    
+                </nav>
+            </div>
+        </header>
+
+        <script>
+        (function() {
+            // Mark the active header nav link based on current pathname
+            var path = window.location.pathname.replace(/\/+$/, '') || '/';
+            var navLinks = document.querySelectorAll('.modern-header .header-nav .nav-link');
+            // Map of pathname prefixes → which link's href starts with this
+            var matches = [
+                { test: function(p) { return p === '/upload' || p.indexOf('/upload/') === 0; },     href: '/upload' },
+                { test: function(p) { return p === '/pricing'; },                                    href: '/pricing' },
+                { test: function(p) { return p === '/affiliate' || p.indexOf('/affiliate?') === 0; }, href: '/affiliate' },
+                { test: function(p) { return p === '/my-files' || p.indexOf('/my-files/') === 0; }, href: '/my-files' },
+                { test: function(p) { return p === '/account'; },                                    href: '/account' }
+            ];
+            // Also check the current full URL for /affiliate?tab=... case
+            var fullPath = window.location.pathname + window.location.search;
+            navLinks.forEach(function(link) {
+                if (link.classList.contains('nav-dropdown-trigger')) return;
+                var href = link.getAttribute('href') || '';
+                // Skip dropdowns and external links
+                if (!href || href === '#' || href.indexOf('http') === 0) return;
+                // Direct match: link's href matches current path
+                if (path === href || path.indexOf(href + '/') === 0) {
+                    link.classList.add('active');
+                }
+            });
+        })();
+        </script>
+
+        <!-- Portal Dropdowns - Outside Header for Glass Effect -->
+        
+
+        <!-- Language Modal (MEGA-Style) -->
+        <div class="lang-modal-overlay" id="langModal">
+            <div class="lang-modal">
+                <div class="lang-modal-header">
+                    <h3>Select language</h3>
+                    <button class="lang-modal-close" id="langModalClose"><i class="fas fa-times"></i></button>
+                </div>
+                <div class="lang-modal-grid" id="langModalGrid">
+                    <a href="/lang/english" class="lang-option" data-lang="english">English</a>
+                    <a href="/lang/german" class="lang-option" data-lang="german">Deutsch</a>
+                    <a href="/lang/french" class="lang-option" data-lang="french">Français</a>
+                    <a href="/lang/spanish" class="lang-option" data-lang="spanish">Español</a>
+                    <a href="/lang/dutch" class="lang-option" data-lang="dutch">Nederlands</a>
+                    <a href="/lang/polish" class="lang-option" data-lang="polish">Polski</a>
+                    <a href="/lang/hungary" class="lang-option" data-lang="hungary">Magyar</a>
+                    <a href="/lang/turkish" class="lang-option" data-lang="turkish">Türkçe</a>
+                    <a href="/lang/russian" class="lang-option" data-lang="russian">Русский</a>
+                    <a href="/lang/japan" class="lang-option" data-lang="japan">日本語</a>
+                    <a href="/lang/indonesia" class="lang-option" data-lang="indonesia">Bahasa Indonesia</a>
+                    <a href="/lang/thai" class="lang-option" data-lang="thai">ไทย</a>
+                    <a href="/lang/arabic" class="lang-option" data-lang="arabic">العربية</a>
+                    <a href="/lang/hebrew" class="lang-option" data-lang="hebrew">עברית</a>
+                </div>
+            </div>
+        </div>
+
+        <!-- Mobile Menu — dropdown card under the main header -->
+        <div class="mobile-menu-portal" id="mobile-menu-portal" onclick="if(event.target===this)closeMobileMenu();">
+            <div class="mm-card">
+
+                
+                <a href="/upload" class="mobile-nav-link"
+                   onclick="if(typeof LoginModal!=='undefined'){event.preventDefault();closeMobileMenu();LoginModal.show('/upload');}">
+                    Upload
+                </a>
+                
+
+                
+                <a href="/pricing" class="mobile-nav-link">Ultimate</a>
+                
+
+                
+
+                
+
+                
+                <a href="/login" class="mobile-nav-link" onclick="if(typeof LoginModal!=='undefined'){event.preventDefault();closeMobileMenu();LoginModal.show();}">Login</a>
+                <a href="/register" class="mobile-nav-link" onclick="if(typeof RegModal!=='undefined'){event.preventDefault();closeMobileMenu();RegModal.show();}">Create Account</a>
+                <!-- Language selector (logged out: after Konto erstellen) -->
+                <div class="mobile-lang-selector">
+                    <button type="button" class="mobile-collapse-trigger" data-target="lang-collapse-guest" id="mobile-lang-trigger" data-lang="english">
+                        <span class="trigger-left">
+                            <svg class="mm-lang-globe" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><path d="M2 12h20"/><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/></svg>
+                            <span id="mobile-lang-current-code">DE</span>
+                        </span>
+                        <svg class="mm-chevron" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg>
+                    </button>
+                    <div class="mobile-collapse-content" id="lang-collapse-guest">
+                        <div class="mobile-lang-grid">
+                            <a href="/lang/english" data-lang="english">English</a>
+                            <a href="/lang/german" data-lang="german">Deutsch</a>
+                            <a href="/lang/french" data-lang="french">Français</a>
+                            <a href="/lang/spanish" data-lang="spanish">Español</a>
+                            <a href="/lang/dutch" data-lang="dutch">Nederlands</a>
+                            <a href="/lang/polish" data-lang="polish">Polski</a>
+                            <a href="/lang/hungary" data-lang="hungary">Magyar</a>
+                            <a href="/lang/turkish" data-lang="turkish">Türkçe</a>
+                            <a href="/lang/russian" data-lang="russian">Русский</a>
+                            <a href="/lang/japan" data-lang="japan">日本語</a>
+                            <a href="/lang/indonesia" data-lang="indonesia">Bahasa Indonesia</a>
+                            <a href="/lang/thai" data-lang="thai">ไทย</a>
+                            <a href="/lang/arabic" data-lang="arabic">العربية</a>
+                            <a href="/lang/hebrew" data-lang="hebrew">עברית</a>
+                        </div>
+                    </div>
+                </div>
+                
+
+            </div>
+        </div>
+
+        <!-- Main Content -->
+        <div id="container">
+            
+    
+            <style>
+/* ============================================================
+   Duckier Banner (dark, brand Duckier)
+   ============================================================ */
+.dkbn{width:100%;max-width:728px;height:110px;position:relative;border-radius:16px;overflow:visible;background:#0c0e16;box-shadow:0 0 40px rgba(177,75,244,.1),0 8px 32px rgba(0,0,0,.4),inset 0 1px 0 rgba(255,255,255,.06)}
+.dkbn::before{content:'';position:absolute;inset:-1.5px;border-radius:17.5px;padding:1.5px;background:linear-gradient(81.02deg,rgba(250,85,96,1) -23.47%,rgba(177,75,244,1) 45.52%,rgba(77,145,255,1) 114.8%);-webkit-mask:linear-gradient(#fff 0 0) content-box,linear-gradient(#fff 0 0);-webkit-mask-composite:xor;mask:linear-gradient(#fff 0 0) content-box,linear-gradient(#fff 0 0);mask-composite:exclude;pointer-events:none;z-index:3}
+.dkbn-link{display:flex;align-items:center;gap:0;width:100%;height:100%;text-decoration:none;color:#fff;position:relative;overflow:hidden;border-radius:16px;background:radial-gradient(ellipse at 0% 50%,rgba(250,85,96,.08) 0%,transparent 50%),radial-gradient(ellipse at 50% 0%,rgba(177,75,244,.08) 0%,transparent 50%),radial-gradient(ellipse at 100% 80%,rgba(77,145,255,.08) 0%,transparent 50%),#0c0e16;transition:filter .3s ease}
+.dkbn-link:hover{filter:brightness(1.05)}
+.dkbn-stars{position:absolute;inset:0;pointer-events:none;overflow:hidden;z-index:0}
+.dkbn-stars span{position:absolute;width:1.5px;height:1.5px;background:rgba(255,255,255,.85);border-radius:50%;animation:dkbn-star 3s ease-in-out infinite}
+.dkbn-shimmer{position:absolute;top:0;left:-35%;width:35%;height:100%;background:linear-gradient(90deg,transparent,rgba(255,255,255,.03),transparent);animation:dkbn-shimmer 5s ease-in-out infinite;pointer-events:none;z-index:1}
+.dkbn-brand{display:flex;align-items:center;gap:.6rem;padding:0 1.25rem;flex-shrink:0;position:relative;z-index:2}
+.dkbn-icon{height:42px;filter:brightness(1.15) drop-shadow(0 0 8px rgba(255,255,255,.2));pointer-events:none;animation:dkbn-float 4s ease-in-out infinite;transition:filter .3s ease}
+.dkbn-link:hover .dkbn-icon{animation:dkbn-spin .6s cubic-bezier(.34,1.56,.64,1);filter:brightness(1.2) drop-shadow(0 0 16px rgba(255,255,255,.45))}
+.dkbn-name{font-family:ui-sans-serif,system-ui,sans-serif;font-size:1.35rem;font-weight:700;background:linear-gradient(81.02deg,#fa5560 -23.47%,#b14bf4 45.52%,#4d91ff 114.8%);-webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text;white-space:nowrap}
+.dkbn-divider{width:1px;height:50px;background:linear-gradient(180deg,transparent,rgba(255,255,255,.12),transparent);flex-shrink:0;position:relative;z-index:2}
+.dkbn-content{padding:0 1rem;flex:1;position:relative;z-index:2;min-width:0}
+.dkbn-title{font-family:ui-sans-serif,system-ui,sans-serif;font-size:1.05rem;font-weight:800;color:#fff;text-transform:uppercase;letter-spacing:1px;line-height:1.2;white-space:nowrap;text-align:center}
+.dkbn-gradient{background:linear-gradient(90deg,#FFD700 0%,#FFAA00 25%,#FFE066 50%,#FFA500 75%,#FFD700 100%);background-size:200% 100%;-webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text;animation:dkbn-gold 4s ease-in-out infinite}
+.dkbn-subtitle{font-size:.7rem;color:rgba(255,255,255,.45);margin-top:1px;white-space:nowrap;text-align:center}
+.dkbn-cta-wrap{padding:0 1.25rem 0 .75rem;flex-shrink:0;margin-left:auto;position:relative;z-index:2}
+.dkbn-cta{display:inline-flex;align-items:center;gap:6px;padding:8px 18px;font-family:ui-sans-serif,system-ui,sans-serif;font-size:.75rem;font-weight:700;color:#fff;text-transform:uppercase;letter-spacing:1px;border-radius:10px;border:1.5px solid transparent;white-space:nowrap;background:linear-gradient(rgba(30,30,50,.6),rgba(30,30,50,.6)) padding-box,linear-gradient(81.02deg,#fd941366,#ff69b4aa,#b14bf4cc,#ac65cbaa,#3aafd388) border-box;box-shadow:0 0 12px rgba(255,255,255,.04),0 4px 16px rgba(0,0,0,.25),inset 0 1px 1px rgba(255,255,255,.12),inset 0 -1px 1px rgba(0,0,0,.2);transition:all .3s ease}
+.dkbn-link:hover .dkbn-cta{box-shadow:0 0 24px rgba(177,75,244,.3),0 0 48px rgba(177,75,244,.1),0 8px 24px rgba(0,0,0,.35)}
+@keyframes dkbn-shimmer{0%{left:-35%}100%{left:120%}}
+@keyframes dkbn-star{0%,100%{opacity:.08;transform:scale(.4)}50%{opacity:.7;transform:scale(1.3)}}
+@keyframes dkbn-float{0%,100%{transform:translateY(0)}50%{transform:translateY(-3px)}}
+@keyframes dkbn-spin{0%{transform:scale(1) rotate(0deg)}50%{transform:scale(1.25) rotate(-20deg)}100%{transform:scale(1) rotate(0deg)}}
+@keyframes dkbn-gold{0%,100%{background-position:0% 50%}50%{background-position:100% 50%}}
+@media(max-width:728px){.dkbn{max-width:100%;height:auto;min-height:90px}.dkbn-link{flex-wrap:wrap;padding:.75rem 0}.dkbn-brand{padding:0 1rem}.dkbn-content{flex:1;padding:0 .75rem}.dkbn-cta-wrap{padding:0 1rem 0 .5rem}}
+@media(max-width:480px){.dkbn{height:auto;border-radius:14px}.dkbn::before{border-radius:15.5px}.dkbn-link{flex-direction:column;align-items:center;text-align:center;padding:1rem;gap:.6rem;border-radius:14px}.dkbn-divider{display:none}.dkbn-brand{padding:0;gap:.5rem}.dkbn-icon{height:32px}.dkbn-name{font-size:1.15rem}.dkbn-content{padding:0}.dkbn-title{font-size:.95rem}.dkbn-subtitle{font-size:.7rem}.dkbn-cta-wrap{padding:0;margin-left:0}.dkbn-cta{padding:10px 28px;font-size:.75rem}}
+
+/* ============================================================
+   ERROR PAGE — V3 (light theme, brand blue + amber accent)
+   ============================================================ */
+html:has(.dk-err-section),
+body:has(.dk-err-section) {
+    overflow-x: clip;
+    max-width: 100vw;
+}
+.dk-err-section {
+    width: 100vw;
+    max-width: 100%;
+    position: relative;
+    left: 50%;
+    margin-left: -50vw;
+    padding: 2rem 0 5rem;
+    min-height: 70vh;
+    box-sizing: border-box;
+    overflow: hidden;
+    background: linear-gradient(180deg, #f6f9ff 0%, #ffffff 760px, #ffffff 100%);
+}
+.dk-err-section::before,
+.dk-err-section::after {
+    content: '';
+    position: absolute;
+    border-radius: 50%;
+    filter: blur(150px);
+    pointer-events: none;
+    z-index: 0;
+}
+.dk-err-section::before {
+    width: 620px;
+    height: 620px;
+    background: rgba(20, 63, 166, 0.12);
+    top: -160px;
+    left: 3%;
+}
+.dk-err-section::after {
+    width: 540px;
+    height: 540px;
+    background: rgba(6, 182, 212, 0.1);
+    top: 120px;
+    right: 3%;
+}
+#container:has(.dk-err-section) {
+    padding: 0 !important;
+    max-width: 100% !important;
+    margin-top: 0 !important;
+    overflow-x: clip;
+}
+.dk-err-container {
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 0 2rem;
+    position: relative;
+    z-index: 1;
+    box-sizing: border-box;
+}
+.dk-err-container * { box-sizing: border-box; }
+
+/* Duckier banner row (inside section) */
+.dk-err-banner-row {
+    display: flex;
+    justify-content: center;
+    padding: 0 0 1.75rem;
+}
+
+/* Centered error card */
+.dk-err-wrap {
+    max-width: 560px;
+    margin: 0 auto;
+}
+.dk-err-card {
+    background: white;
+    border: 1.5px solid #e5e7eb;
+    border-radius: 22px;
+    padding: 3rem 2.5rem 2.5rem;
+    text-align: center;
+    box-shadow: 0 12px 40px rgba(15, 23, 42, 0.08);
+}
+.dk-err-icon {
+    width: 82px;
+    height: 82px;
+    border-radius: 20px;
+    background: linear-gradient(135deg, rgba(239, 68, 68, 0.1), rgba(249, 115, 22, 0.1));
+    color: #dc2626;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 1.5rem;
+    border: 1.5px solid rgba(239, 68, 68, 0.15);
+}
+.dk-err-title {
+    font-size: 1.85rem;
+    font-weight: 800;
+    color: #1a1a2e;
+    margin: 0 0 0.6rem;
+    letter-spacing: -0.02em;
+    line-height: 1.15;
+}
+.dk-err-subtitle {
+    font-size: 1.02rem;
+    color: #64748b;
+    margin: 0 0 2rem;
+    line-height: 1.55;
+}
+
+/* Info box */
+.dk-err-info {
+    background: linear-gradient(135deg, rgba(234, 179, 8, 0.08), rgba(251, 191, 36, 0.04));
+    border: 1.5px solid rgba(234, 179, 8, 0.25);
+    border-left: 4px solid #f59e0b;
+    border-radius: 14px;
+    padding: 1.15rem 1.3rem;
+    margin-bottom: 2rem;
+    text-align: left;
+    display: flex;
+    gap: 0.85rem;
+    align-items: flex-start;
+}
+.dk-err-info-icon {
+    flex-shrink: 0;
+    width: 20px;
+    height: 20px;
+    color: #b45309;
+    margin-top: 2px;
+}
+.dk-err-info-text {
+    flex: 1;
+    font-size: 0.92rem;
+    color: #78350f;
+    line-height: 1.55;
+}
+.dk-err-info-text strong {
+    display: block;
+    font-weight: 800;
+    color: #92400e;
+    margin-bottom: 0.3rem;
+    font-size: 0.98rem;
+}
+
+/* Action buttons — matching header .nav-link.primary / .nav-link.outlined exactly */
+.dk-err-actions {
+    display: flex;
+    gap: 0.75rem;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.dk-err-btn {
+    padding: 0.6rem 1.25rem;
+    border-radius: 10px;
+    font-size: 16px;
+    font-weight: 500;
+    text-decoration: none;
+    transition: all 0.2s ease;
+    font-family: inherit;
+    cursor: pointer;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 180px;
+}
+.dk-err-btn.primary {
+    color: #ffffff;
+    background: linear-gradient(135deg, rgba(20, 63, 166, 0.95) 0%, rgba(27, 94, 217, 0.95) 100%);
+    border: 1px solid rgba(20, 63, 166, 0.3);
+    box-shadow: 0 2px 4px rgba(20, 63, 166, 0.15), inset 0 1px 0 rgba(255, 255, 255, 0.1);
+}
+.dk-err-btn.primary:hover {
+    color: #ffffff;
+    background: linear-gradient(135deg, rgba(26, 79, 196, 1) 0%, rgba(37, 99, 235, 1) 100%);
+    box-shadow: 0 4px 8px rgba(20, 63, 166, 0.25), inset 0 1px 0 rgba(255, 255, 255, 0.15);
+    text-decoration: none;
+}
+.dk-err-btn.secondary {
+    color: #1a1a2e;
+    background: transparent;
+    border: 1.5px solid #d1d5db;
+}
+.dk-err-btn.secondary:hover {
+    border-color: #9ca3af;
+    background: rgba(0, 0, 0, 0.02);
+    color: #1a1a2e;
+    text-decoration: none;
+}
+
+/* Footer note */
+.dk-err-footer {
+    margin-top: 1.5rem;
+    font-size: 0.82rem;
+    color: #94a3b8;
+    font-weight: 500;
+}
+
+/* Responsive */
+@media (max-width: 720px) {
+    .dk-err-section { padding: 1.5rem 0 3rem; background: linear-gradient(180deg, #f6f9ff 0%, #ffffff 460px); }
+    .dk-err-container { padding: 0 1rem; }
+    .dk-err-card { padding: 2.25rem 1.75rem 2rem; }
+    .dk-err-title { font-size: 1.55rem; }
+    .dk-err-subtitle { font-size: 0.95rem; }
+    .dk-err-actions { flex-direction: column; }
+    .dk-err-btn { width: 100%; min-width: 0; }
+}
+</style>
+
+<div class="dk-err-section">
+    <div class="dk-err-container">
+
+        <!-- Duckier VPN Banner -->
+        <div class="dk-err-banner-row">
+            <div class="dkbn" id="dkbnTarget">
+                <a href="https://duckier.com/?ref=ddownload&utm_medium=display&utm_campaign=vpn_banner_dl" target="_blank" rel="noopener" class="dkbn-link">
+                    <div class="dkbn-stars">
+                        <span style="top:15%;left:8%;animation-delay:0s"></span>
+                        <span style="top:60%;left:85%;animation-delay:.7s"></span>
+                        <span style="top:30%;left:45%;animation-delay:1.4s"></span>
+                        <span style="top:75%;left:25%;animation-delay:.3s"></span>
+                        <span style="top:20%;left:70%;animation-delay:2.1s"></span>
+                    </div>
+                    <div class="dkbn-shimmer"></div>
+                    <div class="dkbn-brand">
+                        <img src="/images/duckier_icon.svg" alt="" class="dkbn-icon">
+                        <span class="dkbn-name">Duckier</span>
+                    </div>
+                    <div class="dkbn-divider"></div>
+                    <div class="dkbn-content">
+                        <div class="dkbn-title"><span class="dkbn-gradient" id="dkbn-title-text">Fast, Secure &amp; Free</span> VPN</div>
+                        <div class="dkbn-subtitle" id="dkbn-subtitle-text">Free and no-log</div>
+                    </div>
+                    <div class="dkbn-cta-wrap">
+                        <span class="dkbn-cta">Download</span>
+                    </div>
+                </a>
+            </div>
+        </div>
+        <script>
+        (function(){
+            if (/^de\b/i.test(navigator.language || '')) {
+                var t = document.getElementById('dkbn-title-text');
+                var s = document.getElementById('dkbn-subtitle-text');
+                if (t) t.textContent = 'Schnell, Sicher & Kostenlos';
+                if (s) s.textContent = 'Gratis und ohne Logs';
+            }
+        })();
+        </script>
+
+        <!-- Error card -->
+        <div class="dk-err-wrap">
+            <div class="dk-err-card">
+                <div class="dk-err-icon">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="42" height="42" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+                        <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/>
+                        <polyline points="14 2 14 8 20 8"/>
+                        <line x1="9.5" y1="12.5" x2="14.5" y2="17.5"/>
+                        <line x1="14.5" y1="12.5" x2="9.5" y2="17.5"/>
+                    </svg>
+                </div>
+
+                <h1 class="dk-err-title">File Not Found</h1>
+                <p class="dk-err-subtitle">The file you're looking for is no longer available.</p>
+
+                <div class="dk-err-info">
+                    <svg class="dk-err-info-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                        <path d="M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z"/>
+                        <line x1="12" y1="9" x2="12" y2="13"/>
+                        <line x1="12" y1="17" x2="12.01" y2="17"/>
+                    </svg>
+                    <div class="dk-err-info-text">
+                        <strong>This file cannot be accessed</strong>
+                        The file you are trying to download is no longer available. It may have been deleted by the uploader or removed due to inactivity.
+                    </div>
+                </div>
+
+                <div class="dk-err-actions">
+                    <a href="https://ddownload.com" class="dk-err-btn primary">Go to Homepage</a>
+                    <a href="https://ddownload.com/?op=upload" class="dk-err-btn secondary">Upload Files</a>
+                </div>
+
+                <div class="dk-err-footer">
+                    Files are automatically deleted after a period of inactivity.
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div>
+
+        </div>
+    
+        <!-- Modern Footer -->
+        <footer class="modern-footer">
+            <div class="footer-container">
+                <div class="footer-grid">
+                    <!-- Brand Section -->
+                    <div class="footer-section">
+                        <div class="footer-logo">
+                            <img src="/ds2/img/ddownload.png" alt="ddownload.com">
+                        </div>
+                        <p>
+                            Professional cloud storage trusted by millions worldwide. Secure data management with unlimited bandwidth, fast global delivery, and enterprise-grade security.
+                        </p>
+
+                        <!-- App Store Badges -->
+                        <div class="footer-badge-wrap">
+                            <a href="#" class="footer-badge" onclick="return false;" data-tooltip="Coming soon">
+                                <img src="/images/badges/google-play-badge-en.svg" alt="Google Play" height="40">
+                            </a>
+                            <a href="#" class="footer-badge" onclick="return false;" data-tooltip="Coming soon">
+                                <img src="/images/badges/app-store-badge-en.svg" alt="App Store" height="40">
+                            </a>
+                        </div>
+                    </div>
+    
+                    <!-- Features -->
+                    <div class="footer-section footer-collapsible">
+                        <div class="footer-collapse-header">
+                            <span class="footer-collapse-title">Features</span>
+                            <span class="footer-collapse-icon">
+                                <span class="plus-icon">+</span>
+                                <span class="minus-icon">−</span>
+                            </span>
+                        </div>
+                        <h4>Features</h4>
+                        <ul class="footer-menu">
+                            <li><a href="/pricing">Ultimate Plans</a></li>
+                            <li><a href="/pricing">Unlimited Storage</a></li>
+                            <li><a href="/pricing">Fast Downloads</a></li>
+                            
+                            <li><a href="/api">API Access</a></li>
+                        </ul>
+                    </div>
+    
+                    <!-- Quick Links -->
+                    <div class="footer-section footer-collapsible">
+                        <div class="footer-collapse-header">
+                            <span class="footer-collapse-title">Quick Links</span>
+                            <span class="footer-collapse-icon">
+                                <span class="plus-icon">+</span>
+                                <span class="minus-icon">−</span>
+                            </span>
+                        </div>
+                        <h4>Quick Links</h4>
+                        <ul class="footer-menu">
+                            <li><a href="/mediakit">Mediakit</a></li>
+                            <li><a href="/contact">Contact</a></li>
+                            <li><a href="/helpdesk">Help Desk</a></li>
+                            <li><a href="/faq">FAQ</a></li>
+                            <li><a href="/abuse">Copyright Report</a></li>
+                        </ul>
+                    </div>
+    
+                    <!-- Company -->
+                    <div class="footer-section footer-collapsible">
+                        <div class="footer-collapse-header">
+                            <span class="footer-collapse-title">Company</span>
+                            <span class="footer-collapse-icon">
+                                <span class="plus-icon">+</span>
+                                <span class="minus-icon">−</span>
+                            </span>
+                        </div>
+                        <h4>Company</h4>
+                        <ul class="footer-menu">
+                            <li><a href="/about">About Us</a></li>
+                            <li><a href="/jobs">Jobs</a></li>
+                            <li><a href="/advertising">Advertising</a></li>
+                            <li><a href="/bug-bounty">Bug Bounty</a></li>
+                            <li><a href="/transparency-report">Transparency Report</a></li>
+                        </ul>
+                    </div>
+
+                    <!-- Legal -->
+                    <div class="footer-section footer-collapsible">
+                        <div class="footer-collapse-header">
+                            <span class="footer-collapse-title">Legal</span>
+                            <span class="footer-collapse-icon">
+                                <span class="plus-icon">+</span>
+                                <span class="minus-icon">−</span>
+                            </span>
+                        </div>
+                        <h4>Legal</h4>
+                        <ul class="footer-menu">
+                            <li><a href="/tos">Terms of service</a></li>
+                            <li><a href="/privacy">Privacy Policy</a></li>
+                            <li><a href="/regulations">Regulations of payment</a></li>
+                            <li><a href="/copyright">Copyright Policy</a></li>
+                            <li><a href="/child-policy">Child Policy</a></li>
+                        </ul>
+                    </div>
+                </div>
+    
+                <!-- Footer Bottom -->
+                <div class="footer-bottom">
+                    &copy; 2018 - 2026 ddownload.com - All Rights Reserved
+                </div>
+            </div>
+        </footer>
+    
+        <!-- Scripts -->
+    
+        <!-- Bootstrap & Other Scripts -->
+        <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+        <script src="/ds2/js/bootstrap.min.js"></script>
+        <script src="/ds2/js/clipboard.min.js"></script>
+        <script src="/ds2/js/main.js"></script>
+    
+        <script>
+        // Language Selector - Set current language with flag
+        document.addEventListener('DOMContentLoaded', function() {
+            const languageMap = {
+                'english': { flag: 'gb', name: 'English' },
+                'german': { flag: 'de', name: 'Deutsch' },
+                'french': { flag: 'fr', name: 'Français' },
+                'spanish': { flag: 'es', name: 'Español' },
+                'russian': { flag: 'ru', name: 'Русский' },
+                'polish': { flag: 'pl', name: 'Polski' },
+                'turkish': { flag: 'tr', name: 'Türkçe' },
+                'dutch': { flag: 'nl', name: 'Nederlands' },
+                'arabic': { flag: 'sa', name: 'العربية' },
+                'hebrew': { flag: 'il', name: 'עברית' },
+                'hungary': { flag: 'hu', name: 'Magyar' },
+                'indonesia': { flag: 'id', name: 'Bahasa Indonesia' },
+                'japan': { flag: 'jp', name: '日本語' },
+                'thai': { flag: 'th', name: 'ไทย' }
+            };
+    
+            // Header language buttons - show language code (DE, EN, etc.)
+            var langCodeMap = {
+                'english':'EN','german':'DE','french':'FR','spanish':'ES','russian':'RU',
+                'polish':'PL','turkish':'TR','dutch':'NL','arabic':'AR','hebrew':'HE',
+                'hungary':'HU','indonesia':'ID','japan':'JA','thai':'TH'
+            };
+            ['headerLangBtn','headerLangBtnLoggedIn'].forEach(function(id) {
+                var btn = document.getElementById(id);
+                if (!btn) return;
+                var lang = btn.getAttribute('data-lang');
+                var codeEl = btn.querySelector('span[id^="header-lang-code"]');
+                if (lang && langCodeMap[lang] && codeEl) {
+                    codeEl.textContent = langCodeMap[lang];
+                }
+                // Open modal on click
+                btn.addEventListener('click', function() {
+                    document.getElementById('langModal').classList.add('active');
+                });
+            });
+
+            // Language Modal
+            var langModal = document.getElementById('langModal');
+            var langModalClose = document.getElementById('langModalClose');
+            if (langModal) {
+                // Close button
+                if (langModalClose) langModalClose.addEventListener('click', function() {
+                    langModal.classList.remove('active');
+                });
+                // Click outside to close
+                langModal.addEventListener('click', function(e) {
+                    if (e.target === langModal) langModal.classList.remove('active');
+                });
+                // Mark active language
+                var currentLang = (document.getElementById('headerLangBtn') || document.getElementById('headerLangBtnLoggedIn'));
+                if (currentLang) {
+                    var lang = currentLang.getAttribute('data-lang');
+                    langModal.querySelectorAll('.lang-option').forEach(function(opt) {
+                        if (opt.getAttribute('data-lang') === lang) opt.classList.add('active');
+                    });
+                }
+            }
+
+            // Desktop: Portal Dropdown System für Glass Effect
+            if (window.innerWidth > 968) {
+                let activePortal = null;
+                let hoverTimeout = null;
+
+                document.querySelectorAll('.nav-dropdown[data-portal]').forEach(function(dropdown) {
+                    const portalId = dropdown.getAttribute('data-portal');
+                    const portal = document.getElementById(portalId);
+                    if (!portal) return;
+
+                    function showPortal() {
+                        clearTimeout(hoverTimeout);
+                        // Hide all other portals
+                        document.querySelectorAll('.dropdown-portal.active').forEach(function(p) {
+                            if (p !== portal) p.classList.remove('active');
+                        });
+
+                        // Position portal centered under trigger
+                        const triggerRect = dropdown.getBoundingClientRect();
+                        const triggerCenter = triggerRect.left + (triggerRect.width / 2);
+
+                        // Temporarily show to measure width
+                        portal.style.visibility = 'hidden';
+                        portal.style.display = 'block';
+                        const portalWidth = portal.offsetWidth;
+                        portal.style.display = '';
+                        portal.style.visibility = '';
+
+                        // Calculate centered position
+                        let leftPos = triggerCenter - (portalWidth / 2);
+
+                        // Keep within viewport bounds
+                        const minLeft = 16;
+                        const maxLeft = window.innerWidth - portalWidth - 16;
+                        leftPos = Math.max(minLeft, Math.min(maxLeft, leftPos));
+
+                        portal.style.left = leftPos + 'px';
+                        portal.style.right = 'auto';
+                        portal.classList.add('active');
+                        activePortal = portal;
+                    }
+
+                    function hidePortal() {
+                        hoverTimeout = setTimeout(function() {
+                            portal.classList.remove('active');
+                            activePortal = null;
+                        }, 150);
+                    }
+
+                    // Trigger hover events
+                    dropdown.addEventListener('mouseenter', showPortal);
+                    dropdown.addEventListener('mouseleave', hidePortal);
+
+                    // Portal hover events (keep open while hovering portal)
+                    portal.addEventListener('mouseenter', function() {
+                        clearTimeout(hoverTimeout);
+                    });
+                    portal.addEventListener('mouseleave', hidePortal);
+                });
+
+                // Close portals when clicking outside
+                document.addEventListener('click', function(e) {
+                    if (!e.target.closest('.nav-dropdown') && !e.target.closest('.dropdown-portal')) {
+                        document.querySelectorAll('.dropdown-portal.active').forEach(function(p) {
+                            p.classList.remove('active');
+                        });
+                    }
+                });
+
+                // Close header portals on scroll
+                window.addEventListener('scroll', function() {
+                    document.querySelectorAll('.dropdown-portal.active:not(.dropdown-portal-up)').forEach(function(p) {
+                        p.classList.remove('active');
+                    });
+                });
+            }
+
+            // Language modal is handled via click events in the modal setup above
+
+            // Mobile: Collapsible sections (Admin, Language)
+            document.querySelectorAll('.mobile-collapse-trigger').forEach(function(trigger) {
+                trigger.addEventListener('click', function() {
+                    const targetId = this.getAttribute('data-target');
+                    const content = document.getElementById(targetId);
+                    if (content) {
+                        this.classList.toggle('active');
+                        content.classList.toggle('active');
+                    }
+                });
+            });
+
+            // Mobile: Footer collapsible sections (mega.nz style)
+            document.querySelectorAll('.footer-collapse-header').forEach(function(header) {
+                header.addEventListener('click', function() {
+                    const section = this.closest('.footer-collapsible');
+                    if (section) {
+                        section.classList.toggle('open');
+                    }
+                });
+            });
+
+            // Mobile: Set current language code (DE / EN / etc) in the trigger
+            const mobileLangTrigger = document.getElementById('mobile-lang-trigger');
+            if (mobileLangTrigger) {
+                const currentLang = mobileLangTrigger.getAttribute('data-lang');
+                const codeEl = document.getElementById('mobile-lang-current-code');
+                if (currentLang && langCodeMap[currentLang] && codeEl) {
+                    codeEl.textContent = langCodeMap[currentLang];
+                }
+                // Mark active language inside the dropdown grid
+                var activeLangLink = document.querySelector('.mobile-lang-grid a[data-lang="' + currentLang + '"]');
+                if (activeLangLink) activeLangLink.classList.add('active');
+            }
+
+            // Global toggle/close helpers for the mobile menu (header icon stays as bars)
+            window.toggleMobileMenu = function() {
+                var portal = document.getElementById('mobile-menu-portal');
+                if (!portal) return;
+                if (portal.classList.contains('active')) {
+                    window.closeMobileMenu();
+                } else {
+                    portal.classList.add('active');
+                    document.documentElement.classList.add('mobile-menu-open');
+                    document.body.classList.add('mobile-menu-open');
+                }
+            };
+            window.closeMobileMenu = function() {
+                var portal = document.getElementById('mobile-menu-portal');
+                if (portal) portal.classList.remove('active');
+                document.documentElement.classList.remove('mobile-menu-open');
+                document.body.classList.remove('mobile-menu-open');
+            };
+
+            // Close mobile menu when clicking a nav link (not collapse triggers)
+            const mobilePortal = document.getElementById('mobile-menu-portal');
+            if (mobilePortal) {
+                mobilePortal.querySelectorAll('a').forEach(function(link) {
+                    link.addEventListener('click', function() {
+                        window.closeMobileMenu();
+                    });
+                });
+            }
+
+            // Collapse trigger handlers are registered once above at line ~1898
+
+            // ESC key closes the mobile menu
+            document.addEventListener('keydown', function(e) {
+                if (e.key === 'Escape' && mobilePortal && mobilePortal.classList.contains('active')) {
+                    window.closeMobileMenu();
+                }
+            });
+
+            // Hide currently selected language from mobile language list
+            var currentLangBtnForHide = document.getElementById('headerLangBtn') || document.getElementById('headerLangBtnLoggedIn');
+            let currentLanguage = null;
+
+            if (currentLangBtnForHide) {
+                currentLanguage = currentLangBtnForHide.getAttribute('data-lang');
+            } else if (mobileLangTrigger) {
+                currentLanguage = mobileLangTrigger.getAttribute('data-lang');
+            }
+
+            if (currentLanguage) {
+                // Active language in modal is already marked via .active class above
+
+                // Hide from mobile language selector
+                const mobileLangContent = document.getElementById('lang-collapse');
+                if (mobileLangContent) {
+                    mobileLangContent.querySelectorAll('a').forEach(function(link) {
+                        if (link.href.includes('lang=' + currentLanguage)) {
+                            link.style.display = 'none';
+                        }
+                    });
+                }
+            }
+        });
+        </script>
+    <!-- Page Loading Overlay for slow admin pages -->
+    <div id="pageLoader" style="display:none; position:fixed; top:0; left:0; right:0; bottom:0; background:rgba(255,255,255,0.92); z-index:9999; flex-direction:column; align-items:center; justify-content:center;">
+        <div style="width:48px; height:48px; border:4px solid #e5e7eb; border-top-color:#143FA6; border-radius:50%; animation:pageLoaderSpin 0.8s linear infinite; margin-bottom:15px;"></div>
+        <div id="pageLoaderText" style="font-size:1rem; font-weight:500; color:#374151;">Loading...</div>
+        <div style="font-size:0.8rem; margin-top:5px; color:#9ca3af;">Please wait</div>
+    </div>
+    <style>@keyframes pageLoaderSpin { to { transform: rotate(360deg); } }</style>
+    <script>
+    (function() {
+        var loaderPages = {
+            'admin_fraud_check': 'Loading Anti-Fraud Dashboard...',
+            'admin_stats': 'Loading Statistics...',
+            'admin_affiliate_applications': 'Loading Affiliate Applications...',
+            'admin_premium_tracker': 'Loading Premium Tracker...',
+            'admin_debrid_monitor': 'Loading Debrid Monitor...',
+            'admin_uploader_ratio': 'Loading Affiliate ROI...'
+        };
+        document.addEventListener('click', function(e) {
+            var link = e.target.closest('a[href]');
+            if (!link) return;
+            var href = link.getAttribute('href') || '';
+            for (var op in loaderPages) {
+                if (href.indexOf('op=' + op) !== -1) {
+                    var loader = document.getElementById('pageLoader');
+                    document.getElementById('pageLoaderText').textContent = loaderPages[op];
+                    loader.style.display = 'flex';
+                    break;
+                }
+            }
+        });
+    })();
+    </script>
+
+    
+    <script>if(!/JDown/i.test(navigator.userAgent)){var s=document.createElement('script');s.src='https:'+'//challenges.cloudflare.com/'+'turn'+'stile/v0/api.js';s.defer=true;document.head.appendChild(s);}</script>
+    <style>
+    @keyframes rmSpin { to { transform: rotate(360deg); } }
+    .rm-overlay { display:none; position:fixed; top:0; left:0; right:0; bottom:0; background:rgba(0,0,0,0.6); z-index:10000; align-items:center; justify-content:center }
+    .rm-overlay.active { display:flex }
+    body.rm-open { overflow:hidden }
+    .rm-modal { background:#fff; border-radius:16px; padding:2.5rem; max-width:440px; width:90%; box-shadow:0 20px 60px rgba(20,63,166,0.3); position:relative; animation:rmSlideIn 0.4s cubic-bezier(0.68,-0.55,0.265,1.55) }
+    @keyframes rmSlideIn { from{opacity:0;transform:translateY(30px)} to{opacity:1;transform:translateY(0)} }
+    .rm-close { position:absolute; top:16px; right:16px; background:none; border:none; font-size:1.5rem; color:#94a3b8; cursor:pointer; line-height:1 }
+    .rm-close:hover { color:#1f2937 }
+    .rm-title { font-size:1.4rem; font-weight:700; color:#1f2937; margin:0 0 0.5rem; text-align:center }
+    .rm-subtitle { font-size:0.9rem; color:#64748b; text-align:center; margin:0 0 1.5rem; line-height:1.5 }
+    .rm-label { font-size:0.9rem; color:#1f2937; font-weight:600; margin-bottom:0.5rem; display:block }
+    .rm-input { width:100%; padding:0.85rem 1rem; border:2px solid #e2e8f0; border-radius:10px; font-size:1rem; outline:none; transition:border-color 0.2s; box-sizing:border-box }
+    .rm-input:focus { border-color:#143FA6 }
+    .rm-input.rm-invalid { border-color:#ef4444 }
+    .rm-input.rm-valid { border-color:#16a34a }
+    .rm-btn { width:100%; padding:0.85rem; border:none; border-radius:10px; font-size:1rem; font-weight:700; color:#fff; cursor:pointer; transition:all 0.2s; margin-top:0.75rem }
+    .rm-btn-primary { background:linear-gradient(135deg,#143FA6 0%,#1b52d4 100%) }
+    .rm-btn-primary:hover { box-shadow:0 4px 15px rgba(20,63,166,0.35); transform:translateY(-1px) }
+    .rm-btn-primary:disabled { opacity:0.6; cursor:not-allowed; transform:none }
+    .rm-error { color:#ef4444; font-size:0.85rem; margin-top:0.5rem; display:none; text-align:center }
+    .rm-hint { font-size:0.8rem; margin-top:0.35rem; display:none; align-items:center; gap:4px }
+    .rm-hint.error { color:#ef4444; display:flex }
+    .rm-captcha { margin-top:1rem; display:flex; justify-content:center; overflow:hidden }
+    .rm-captcha > div { transform-origin:center top }
+    .rm-captcha > div iframe { max-width:100% !important }
+    @media(max-width:500px) { .rm-captcha > div { transform:scale(0.82); margin:-4px 0 } }
+    .rm-field { margin-top:1rem }
+    .rm-login-link { text-align:center; margin-top:1rem; font-size:0.85rem; color:#64748b }
+    .rm-login-link a { color:#143FA6; font-weight:600; text-decoration:none }
+    </style>
+
+    <div class="rm-overlay" id="rm-overlay">
+        <div class="rm-modal">
+            <button class="rm-close" onclick="RegModal.hide()">&times;</button>
+            <div class="rm-title" id="rm-title">Sign Up</div>
+            <div class="rm-subtitle" id="rm-subtitle">Enter your email to create an account.</div>
+
+            <div>
+                <label class="rm-label">Email</label>
+                <input type="email" class="rm-input" id="rm-email" placeholder="your@email.com" autocomplete="email">
+                <div class="rm-hint" id="rm-email-hint"></div>
+            </div>
+
+            <div id="rm-login-section" style="max-height:0; overflow:hidden; transition:max-height 0.35s ease, opacity 0.35s ease; opacity:0;">
+                <div style="margin-top:1rem;">
+                    <label class="rm-label">Password</label>
+                    <input type="password" class="rm-input" id="rm-password" placeholder="&#8226;&#8226;&#8226;&#8226;&#8226;&#8226;&#8226;&#8226;" autocomplete="current-password">
+                </div>
+            </div>
+
+            <div class="rm-captcha">
+                <div id="rm-ts"></div>
+            </div>
+
+            <div class="rm-error" id="rm-error"></div>
+            <button class="rm-btn rm-btn-primary" id="rm-btn" onclick="RegModal.register()">Sign Up</button>
+            <div class="rm-login-link">Already have an account? <a href="/login" onclick="event.preventDefault(); document.getElementById('rm-overlay').classList.remove('active'); LoginModal.show();">Login</a></div>
+        </div>
+    </div>
+
+    <script>
+    var _tsKey = '0x4AAAAAABm53D0OJNkESa1O';
+    function _renderCap(id) {
+        var el = document.getElementById(id);
+        if (!el || el.dataset.rendered) return;
+        if (typeof window['turn'+'stile'] !== 'undefined') {
+            window['turn'+'stile'].render('#' + id, { sitekey: _tsKey });
+            el.dataset.rendered = '1';
+        }
+    }
+    var RegModal = {
+        _loginMode: false,
+        show: function() {
+            this._loginMode = false;
+            document.getElementById('rm-overlay').classList.add('active');
+            document.body.classList.add('rm-open');
+            document.getElementById('rm-email').focus();
+            _renderCap('rm-ts');
+            return false;
+        },
+        hide: function() {
+            document.getElementById('rm-overlay').classList.remove('active');
+            document.body.classList.remove('rm-open');
+            document.getElementById('rm-error').style.display = 'none';
+            document.getElementById('rm-email').value = '';
+            document.getElementById('rm-email').className = 'rm-input';
+            document.getElementById('rm-email-hint').className = 'rm-hint';
+            document.getElementById('rm-email-hint').textContent = '';
+            document.getElementById('rm-password').value = '';
+            var login = document.getElementById('rm-login-section');
+            login.style.maxHeight = '0'; login.style.opacity = '0';
+            this._loginMode = false;
+            document.getElementById('rm-subtitle').textContent = 'Enter your email to create an account.';
+            document.getElementById('rm-btn').disabled = false;
+            document.getElementById('rm-btn').textContent = 'Sign Up';
+            if (typeof window['turn'+'stile'] !== 'undefined') { window['turn'+'stile'].reset('#rm-ts'); }
+        },
+        _showLogin: function() {
+            this._loginMode = true;
+            var login = document.getElementById('rm-login-section');
+            login.style.maxHeight = '120px'; login.style.opacity = '1';
+            document.getElementById('rm-subtitle').textContent = 'This email already has an account. Please enter your password.';
+            document.getElementById('rm-btn').textContent = 'Log In & Continue';
+            document.getElementById('rm-password').focus();
+        },
+        register: function() {
+            var email = document.getElementById('rm-email').value.trim();
+            if (!email || !/^[a-zA-Z0-9._\-]+@[a-zA-Z0-9.\-]+\.[a-zA-Z]{2,}$/.test(email)) { this._showError('Please enter a valid email address.'); return; }
+            if (this._loginMode) {
+                var pw = document.getElementById('rm-password').value;
+                if (!pw) { this._showError('Please enter your password.'); return; }
+            }
+
+            var cfToken = '';
+            var cfInput = document.querySelector('#rm-ts [name="cf-'+'turnstile-response"]');
+            if (cfInput) cfToken = cfInput.value;
+            if (!cfToken) { this._showError(''); return; }
+
+            var btn = document.getElementById('rm-btn');
+            btn.disabled = true;
+            btn.innerHTML = '<span style="display:inline-block;width:16px;height:16px;border:2px solid rgba(255,255,255,0.3);border-top-color:#fff;border-radius:50%;animation:rmSpin 0.6s linear infinite;vertical-align:middle"></span>';
+            document.getElementById('rm-error').style.display = 'none';
+
+            var body = 'op=guest_checkout&create_account=1&redirect=%2Fpremium&email=' + encodeURIComponent(email) + '&cf-'+'turnstile-response=' + encodeURIComponent(cfToken);
+            if (this._loginMode) {
+                body += '&password=' + encodeURIComponent(document.getElementById('rm-password').value);
+            }
+
+            var self = this;
+            fetch('/', {method:'POST', credentials:'same-origin', headers:{'Content-Type':'application/x-www-form-urlencoded'}, redirect:'manual', body:body})
+                .then(function(r) {
+                    if (r.type === 'opaqueredirect' || r.status === 302 || r.status === 301 || r.status === 0) {
+                        btn.innerHTML = '&#10003;';
+                        setTimeout(function() { window.location.href = '/pricing'; }, 300);
+                        return null;
+                    }
+                    return r.json();
+                })
+                .then(function(data) {
+                    if (!data) return;
+                    if (data.email_exists && !self._loginMode) {
+                        self._showLogin();
+                        btn.disabled = false;
+                        if (typeof window['turn'+'stile'] !== 'undefined') window['turn'+'stile'].reset('#rm-ts');
+                        return;
+                    }
+                    if (data.error) {
+                        RegModal._showError(data.error);
+                        btn.disabled = false;
+                        btn.textContent = self._loginMode ? 'Log In & Continue' : 'Sign Up';
+                        if (typeof window['turn'+'stile'] !== 'undefined') window['turn'+'stile'].reset('#rm-ts');
+                    }
+                })
+                .catch(function() {
+                    RegModal._showError('Network error. Please try again.');
+                    btn.disabled = false;
+                    btn.textContent = self._loginMode ? 'Log In & Continue' : 'Sign Up';
+                    if (typeof window['turn'+'stile'] !== 'undefined') window['turn'+'stile'].reset('#rm-ts');
+                });
+        },
+        _showError: function(msg) { var el = document.getElementById('rm-error'); el.innerHTML = msg; el.style.display = 'block'; }
+    };
+    document.getElementById('rm-overlay').addEventListener('click', function(e) { if (e.target === this) RegModal.hide(); });
+    document.getElementById('rm-email').addEventListener('input', function() {
+        var val = this.value.trim(), hint = document.getElementById('rm-email-hint');
+        document.getElementById('rm-error').style.display = 'none';
+        if (!val) { this.className = 'rm-input'; hint.className = 'rm-hint'; hint.textContent = ''; return; }
+        if (!/^[a-zA-Z0-9._\-]+@[a-zA-Z0-9.\-]+\.[a-zA-Z]{2,}$/.test(val)) { this.className = 'rm-input rm-invalid'; hint.className = 'rm-hint error'; hint.innerHTML = 'Please enter a valid email address.'; return; }
+        this.className = 'rm-input rm-valid'; hint.className = 'rm-hint'; hint.textContent = '';
+    });
+    document.getElementById('rm-email').addEventListener('keydown', function(e) { if (e.key === 'Enter') { if (RegModal._loginMode) document.getElementById('rm-password').focus(); else RegModal.register(); }});
+    document.getElementById('rm-password').addEventListener('keydown', function(e) { if (e.key === 'Enter') RegModal.register(); });
+    </script>
+
+    <!-- Login Modal -->
+    <div class="rm-overlay" id="lm-overlay">
+        <div class="rm-modal">
+            <button class="rm-close" onclick="LoginModal.hide()">&times;</button>
+
+            <!-- Login form view -->
+            <div id="lm-login-view">
+                <div class="rm-title">Login</div>
+                <div class="rm-subtitle">Log in to your account</div>
+
+                <div>
+                    <label class="rm-label">Email</label>
+                    <input type="email" class="rm-input" id="lm-email" placeholder="your@email.com" autocomplete="email">
+                </div>
+
+                <div style="margin-top:1rem;">
+                    <label class="rm-label">Password</label>
+                    <input type="password" class="rm-input" id="lm-password" placeholder="&#8226;&#8226;&#8226;&#8226;&#8226;&#8226;&#8226;&#8226;" autocomplete="current-password">
+                </div>
+
+                <div class="rm-captcha">
+                    <div id="lm-ts"></div>
+                </div>
+
+                <div class="rm-error" id="lm-error"></div>
+                <button class="rm-btn rm-btn-primary" id="lm-btn" onclick="LoginModal.submit()">Login</button>
+                <div class="rm-login-link"><a href="/forgotpass" onclick="event.preventDefault(); document.getElementById('lm-overlay').classList.remove('active'); ForgotModal.show();" style="color:#64748b; font-size:0.85rem;">Forgot your password?</a></div>
+                <div class="rm-login-link">Don't have an account? <a href="/register" onclick="event.preventDefault(); document.getElementById('lm-overlay').classList.remove('active'); RegModal.show();">Sign Up</a></div>
+            </div>
+
+            <!-- 2FA verification view -->
+            <div id="lm-2fa-view" style="display:none;">
+                <div style="text-align:center; margin-bottom:1.5rem;">
+                    <div style="width:56px;height:56px;background:linear-gradient(135deg,#143FA6,#1b52d4);border-radius:50%;display:inline-flex;align-items:center;justify-content:center;margin-bottom:1rem;">
+                        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="4" width="20" height="16" rx="2"/><path d="m22 7-8.97 5.7a1.94 1.94 0 0 1-2.06 0L2 7"/></svg>
+                    </div>
+                    <div class="rm-title">Email Verification</div>
+                    <div class="rm-subtitle">We sent a 6-digit code to <strong id="lm-2fa-email"></strong></div>
+                </div>
+
+                <div>
+                    <label class="rm-label">Verification Code</label>
+                    <input type="text" class="rm-input" id="lm-2fa-code" placeholder="000000" maxlength="6" inputmode="numeric" pattern="[0-9]*" autocomplete="one-time-code" style="text-align:center;font-size:1.4rem;letter-spacing:0.4rem;font-family:'Courier New',monospace;font-weight:700;">
+                </div>
+
+                <div class="rm-error" id="lm-2fa-error" style="display:none;"></div>
+                <button class="rm-btn rm-btn-primary" id="lm-2fa-btn" onclick="LoginModal.verify2fa()" style="margin-top:1rem;">Verify & Login</button>
+
+                <div style="text-align:center;margin-top:1.25rem;padding-top:1.25rem;border-top:1px solid #e9ecef;">
+                    <span style="color:#64748b;font-size:0.85rem;">Didn't receive the code?</span>
+                    <button onclick="LoginModal.resend2fa()" id="lm-2fa-resend" style="background:none;border:1px solid #143FA6;color:#143FA6;padding:0.35rem 0.75rem;border-radius:6px;font-size:0.85rem;cursor:pointer;margin-left:0.5rem;">Resend Code</button>
+                </div>
+                <div style="text-align:center;margin-top:1rem;">
+                    <a href="#" onclick="event.preventDefault(); LoginModal._show2fa(false);" style="color:#64748b;font-size:0.85rem;text-decoration:none;">Back to Login</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Forgot Password Modal -->
+    <div class="rm-overlay" id="fm-overlay">
+        <div class="rm-modal">
+            <button class="rm-close" onclick="ForgotModal.hide()">&times;</button>
+            <div class="rm-title">Forgot your password?</div>
+            <div class="rm-subtitle" id="fm-subtitle">Enter your email to reset your password</div>
+
+            <div id="fm-form">
+                <div>
+                    <label class="rm-label">Email</label>
+                    <input type="email" class="rm-input" id="fm-email" placeholder="your@email.com" autocomplete="email">
+                </div>
+
+                <div class="rm-captcha">
+                    <div id="fm-ts"></div>
+                </div>
+
+                <div class="rm-error" id="fm-error"></div>
+                <button class="rm-btn rm-btn-primary" id="fm-btn" onclick="ForgotModal.submit()">Send Reset Link</button>
+            </div>
+
+            <div id="fm-success" style="display:none; text-align:center; padding:1rem 0;">
+                <div style="width:50px;height:50px;background:#10b981;border-radius:50%;display:flex;align-items:center;justify-content:center;margin:0 auto 1rem;font-size:24px;color:#fff;">&#10003;</div>
+                <div style="color:#059669;font-weight:600;font-size:1rem;margin-bottom:0.5rem;">Reset Link Sent!</div>
+                <div style="color:#64748b;font-size:0.9rem;line-height:1.5;">If an account exists with this email, you will receive a password reset link shortly. Please check your inbox.</div>
+            </div>
+
+            <div class="rm-login-link"><a href="/login" onclick="event.preventDefault(); document.getElementById('fm-overlay').classList.remove('active'); LoginModal.show();">Back to Login</a></div>
+        </div>
+    </div>
+
+    <script>
+    var LoginModal = {
+        _redirect: '',
+        show: function(redirect) {
+            this._redirect = redirect || '';
+            document.getElementById('lm-overlay').classList.add('active');
+            document.body.classList.add('rm-open');
+            document.getElementById('lm-email').focus();
+            _renderCap('lm-ts');
+            return false;
+        },
+        hide: function() {
+            document.getElementById('lm-overlay').classList.remove('active');
+            document.body.classList.remove('rm-open');
+            document.getElementById('lm-error').style.display = 'none';
+            document.getElementById('lm-email').value = '';
+            document.getElementById('lm-password').value = '';
+            document.getElementById('lm-btn').disabled = false;
+            document.getElementById('lm-btn').textContent = 'Login';
+            this._show2fa(false);
+            if (typeof window['turn'+'stile'] !== 'undefined') { window['turn'+'stile'].reset('#lm-ts'); }
+        },
+        submit: function() {
+            var email = document.getElementById('lm-email').value.trim();
+            var pw = document.getElementById('lm-password').value;
+            if (!email) { this._showError('Please enter a valid email address.'); return; }
+            if (!pw) { this._showError('Please enter your password.'); return; }
+
+            var cfToken = '';
+            var cfInput = document.querySelector('#lm-ts [name="cf-'+'turnstile-response"]');
+            if (cfInput) cfToken = cfInput.value;
+
+            var btn = document.getElementById('lm-btn');
+            btn.disabled = true;
+            btn.innerHTML = '<span style="display:inline-block;width:16px;height:16px;border:2px solid rgba(255,255,255,0.3);border-top-color:#fff;border-radius:50%;animation:rmSpin 0.6s linear infinite;vertical-align:middle"></span>';
+            document.getElementById('lm-error').style.display = 'none';
+
+            var redirect = this._redirect;
+            var body = 'op=guest_checkout&login_ajax=1&email=' + encodeURIComponent(email) + '&password=' + encodeURIComponent(pw) + '&cf-'+'turnstile-response=' + encodeURIComponent(cfToken);
+            if (redirect) body += '&redirect=' + encodeURIComponent(redirect);
+
+            var self = this;
+            fetch('/', {method:'POST', credentials:'same-origin', headers:{'Content-Type':'application/x-www-form-urlencoded'}, redirect:'manual', body:body})
+                .then(function(r) {
+                    if (r.type === 'opaqueredirect' || r.status === 302 || r.status === 301 || r.status === 0) {
+                        btn.innerHTML = '&#10003;';
+                        setTimeout(function() { window.location.href = redirect || location.href; }, 300);
+                        return null;
+                    }
+                    return r.json();
+                })
+                .then(function(data) {
+                    if (!data) return;
+                    if (data.tfa === 'email') {
+                        self._ticketId = data.ticket_id;
+                        document.getElementById('lm-2fa-email').textContent = data.masked_email;
+                        self._show2fa(true);
+                        return;
+                    }
+                    if (data.redirect) {
+                        btn.innerHTML = '&#10003;';
+                        setTimeout(function() { window.location.href = data.redirect; }, 300);
+                        return;
+                    }
+                    if (data.error) {
+                        self._showError(data.error);
+                        btn.disabled = false;
+                        btn.textContent = 'Login';
+                        if (typeof window['turn'+'stile'] !== 'undefined') window['turn'+'stile'].reset('#lm-ts');
+                    }
+                })
+                .catch(function() {
+                    self._showError('Network error. Please try again.');
+                    btn.disabled = false;
+                    btn.textContent = 'Login';
+                    if (typeof window['turn'+'stile'] !== 'undefined') window['turn'+'stile'].reset('#lm-ts');
+                });
+        },
+        _show2fa: function(show) {
+            document.getElementById('lm-login-view').style.display = show ? 'none' : '';
+            document.getElementById('lm-2fa-view').style.display = show ? '' : 'none';
+            document.getElementById('lm-2fa-error').style.display = 'none';
+            document.getElementById('lm-2fa-code').value = '';
+            if (show) document.getElementById('lm-2fa-code').focus();
+            if (!show) {
+                document.getElementById('lm-btn').disabled = false;
+                document.getElementById('lm-btn').textContent = 'Login';
+                if (typeof window['turn'+'stile'] !== 'undefined') window['turn'+'stile'].reset('#lm-ts');
+            }
+        },
+        verify2fa: function() {
+            var code = document.getElementById('lm-2fa-code').value.replace(/\s/g, '');
+            if (!code || code.length !== 6) { this._show2faError('Please enter the 6-digit code.'); return; }
+
+            var btn = document.getElementById('lm-2fa-btn');
+            btn.disabled = true;
+            btn.innerHTML = '<span style="display:inline-block;width:16px;height:16px;border:2px solid rgba(255,255,255,0.3);border-top-color:#fff;border-radius:50%;animation:rmSpin 0.6s linear infinite;vertical-align:middle"></span>';
+            document.getElementById('lm-2fa-error').style.display = 'none';
+
+            var redirect = this._redirect;
+            var self = this;
+            fetch('/', {method:'POST', credentials:'same-origin', headers:{'Content-Type':'application/x-www-form-urlencoded'}, redirect:'manual',
+                body:'op=guest_checkout&verify_2fa_ajax=1&ticket_id=' + encodeURIComponent(this._ticketId) + '&code=' + encodeURIComponent(code) + (redirect ? '&redirect=' + encodeURIComponent(redirect) : '')
+            }).then(function(r) {
+                if (r.type === 'opaqueredirect' || r.status === 302 || r.status === 301 || r.status === 0) {
+                    btn.innerHTML = '&#10003;';
+                    setTimeout(function() { window.location.href = redirect || location.href; }, 300);
+                    return null;
+                }
+                return r.json();
+            }).then(function(data) {
+                if (!data) return;
+                if (data.error) {
+                    self._show2faError(data.error);
+                    btn.disabled = false;
+                    btn.textContent = 'Verify & Login';
+                }
+            }).catch(function() {
+                self._show2faError('Network error. Please try again.');
+                btn.disabled = false;
+                btn.textContent = 'Verify & Login';
+            });
+        },
+        resend2fa: function() {
+            var btn = document.getElementById('lm-2fa-resend');
+            btn.disabled = true;
+            btn.textContent = 'Sending...';
+            var self = this;
+            fetch('/', {method:'POST', credentials:'same-origin', headers:{'Content-Type':'application/x-www-form-urlencoded'},
+                body:'op=guest_checkout&resend_2fa_ajax=1&ticket_id=' + encodeURIComponent(this._ticketId)
+            }).then(function(r) { return r.json(); })
+              .then(function(data) {
+                if (data.error) { self._show2faError(data.error); btn.disabled = false; btn.textContent = 'Resend Code'; return; }
+                var cd = 30;
+                btn.textContent = 'Resend Code ' + cd + 's';
+                var iv = setInterval(function() {
+                    cd--;
+                    if (cd <= 0) { clearInterval(iv); btn.disabled = false; btn.textContent = 'Resend Code'; }
+                    else btn.textContent = 'Resend Code ' + cd + 's';
+                }, 1000);
+              }).catch(function() { btn.disabled = false; btn.textContent = 'Resend Code'; });
+        },
+        _showError: function(msg) { var el = document.getElementById('lm-error'); el.innerHTML = msg; el.style.display = 'block'; },
+        _show2faError: function(msg) { var el = document.getElementById('lm-2fa-error'); el.innerHTML = msg; el.style.display = 'block'; }
+    };
+    document.getElementById('lm-overlay').addEventListener('click', function(e) { if (e.target === this) LoginModal.hide(); });
+    document.getElementById('lm-email').addEventListener('keydown', function(e) { if (e.key === 'Enter') document.getElementById('lm-password').focus(); });
+    document.getElementById('lm-password').addEventListener('keydown', function(e) { if (e.key === 'Enter') LoginModal.submit(); });
+    document.getElementById('lm-2fa-code').addEventListener('input', function() {
+        this.value = this.value.replace(/[^0-9]/g, '');
+        if (this.value.length === 6) LoginModal.verify2fa();
+    });
+
+    var ForgotModal = {
+        show: function() {
+            document.getElementById('fm-overlay').classList.add('active');
+            document.body.classList.add('rm-open');
+            document.getElementById('fm-form').style.display = '';
+            document.getElementById('fm-success').style.display = 'none';
+            document.getElementById('fm-email').focus();
+            _renderCap('fm-ts');
+            return false;
+        },
+        hide: function() {
+            document.getElementById('fm-overlay').classList.remove('active');
+            document.body.classList.remove('rm-open');
+            document.getElementById('fm-error').style.display = 'none';
+            document.getElementById('fm-email').value = '';
+            document.getElementById('fm-btn').disabled = false;
+            document.getElementById('fm-btn').textContent = 'Send Reset Link';
+            if (typeof window['turn'+'stile'] !== 'undefined') { window['turn'+'stile'].reset('#fm-ts'); }
+        },
+        submit: function() {
+            var email = document.getElementById('fm-email').value.trim();
+            if (!email || !/^[a-zA-Z0-9._\-]+@[a-zA-Z0-9.\-]+\.[a-zA-Z]{2,}$/.test(email)) { this._showError('Please enter a valid email address.'); return; }
+
+            var cfToken = '';
+            var cfInput = document.querySelector('#fm-ts [name="cf-'+'turnstile-response"]');
+            if (cfInput) cfToken = cfInput.value;
+
+            var btn = document.getElementById('fm-btn');
+            btn.disabled = true;
+            btn.innerHTML = '<span style="display:inline-block;width:16px;height:16px;border:2px solid rgba(255,255,255,0.3);border-top-color:#fff;border-radius:50%;animation:rmSpin 0.6s linear infinite;vertical-align:middle"></span>';
+            document.getElementById('fm-error').style.display = 'none';
+
+            var body = 'op=guest_checkout&forgot_ajax=1&email=' + encodeURIComponent(email) + '&cf-'+'turnstile-response=' + encodeURIComponent(cfToken);
+
+            var self = this;
+            fetch('/', {method:'POST', credentials:'same-origin', headers:{'Content-Type':'application/x-www-form-urlencoded'}, body:body})
+                .then(function(r) { return r.json(); })
+                .then(function(data) {
+                    if (data.success) {
+                        document.getElementById('fm-form').style.display = 'none';
+                        document.getElementById('fm-success').style.display = '';
+                    } else if (data.error) {
+                        self._showError(data.error);
+                        btn.disabled = false;
+                        btn.textContent = 'Send Reset Link';
+                        if (typeof window['turn'+'stile'] !== 'undefined') window['turn'+'stile'].reset('#fm-ts');
+                    }
+                })
+                .catch(function() {
+                    self._showError('Network error. Please try again.');
+                    btn.disabled = false;
+                    btn.textContent = 'Send Reset Link';
+                    if (typeof window['turn'+'stile'] !== 'undefined') window['turn'+'stile'].reset('#fm-ts');
+                });
+        },
+        _showError: function(msg) { var el = document.getElementById('fm-error'); el.innerHTML = msg; el.style.display = 'block'; }
+    };
+    document.getElementById('fm-overlay').addEventListener('click', function(e) { if (e.target === this) ForgotModal.hide(); });
+    document.getElementById('fm-email').addEventListener('keydown', function(e) { if (e.key === 'Enter') ForgotModal.submit(); });
+    </script>
+    
+
+    <script>
+    // Truncate IPv6 addresses to similar length as IPv4
+    document.addEventListener('DOMContentLoaded', function() {
+        var ipv6Re = /^[0-9a-f]{1,4}:/i;
+        function truncIp(full) { return full.substring(0, 15) + '...'; }
+        document.querySelectorAll('td, span, div, a, b, strong').forEach(function(el) {
+            if (el.children.length !== 0) return;
+            var t = el.textContent.trim();
+            if (ipv6Re.test(t) && t.length > 16) {
+                el.setAttribute('title', t);
+                el.textContent = truncIp(t);
+            }
+        });
+    });
+    </script>
+    </body>
+    </html>
+    
